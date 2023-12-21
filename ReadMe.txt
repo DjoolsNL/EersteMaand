@@ -22,13 +22,9 @@ de basisbeginselen van programmeren
 # In de eerste maand ga je je eigen gang. Je probeert het programma van de eerste maand
 zo goed mogelijk af te werken. 
 
+# Je doet niet mee aan reviews of daily scrums. Je werkt buiten scrum en CarSys. In je eerste 
+maand werk je aan je technische basiskennis en je vermogen om te leren. 
 
-Je doet niet mee aan reviews of daily scrums. 
-
-Je werkt buiten scrum en CarSys. Je eerste maand is helemaal voor je zelf en je
-toekomst. 
-
-Je mag zoveel vragen als je wil. Maar alleen als het betrekking heeft op de onderwerpen 
-die jij in deze maand aan het leren bent.
+Je mag altijd en iedereen vragen stellen.  
 
 Het programma is ambitieus maar 
