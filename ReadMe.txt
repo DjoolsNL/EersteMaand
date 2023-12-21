@@ -1,5 +1,5 @@
 De eerste maand
-aaaaaaaaaaaaaa
+
 # Welke tools heb je nodig:
 vscode
 bee.outlook email
