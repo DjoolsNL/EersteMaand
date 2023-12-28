@@ -1,4 +1,4 @@
-De eerste maand
+De eerste maand: je krijgt opdrachten en moet die uitvoeren en verslag uitbrengen
 
 # Welke tools heb je nodig:
 vscode
@@ -50,27 +50,34 @@ D. Om over na te denken en te praten: Waar wil je naartoe? Waar ben je goed in, 
 D. Expected outcome: cursist en tl vinden de gesprekken nuttig geweest
 
 E. Oefenen in de SandBox
-E  Expected outcome: kan tests laten lopen en commandlog lezen
+E  Expected outcome: kan cypress tests laten lopen en commandlog lezen
 
 E. Tester, developer, 
-EE niet alleen technisch vaardig maar ook communicatief
+EE niet alleen technisch vaardig maar ook communicatief en sociaal
 EF na een half jaar ben je er echt nog niet
 EG beter een taal goed leren dan 5 half
 EH Wat is QA?
 
+F. Github: je eigen vitrine kast bij sollicitaties
+
 Week 3
-Aan de slag met 
+Aan de slag met McQuestions en ChatGPT om javascript / cypress op te pakken
+
+Hoe staat het met je windows vaardigheden? Weet je je digitale werkomgeving 
+efficient in te richten en te gebruiken?
+
+Studeren, hoe doe je dat?
+Enerzijds onthouden anderzijds proberen te begrijpen. 
+maak samenvattingen, zonder samenvattingen ben je niet serieus met studeren bezig
+probeer samen te vatten wat je begrijpt. niet wat je onthouden moet.
+
+je kunt strings op heel veel verschillende manieren definieren. Moet je die allemaal
+onthouden of is het voldoende als je er al eens van hebt gehoord? 
 
 
 
 
 
 
-
-Wil je slagen in de IT dan moet je een enorme communicator/leider/onderhandelaar zijn
-of een nerd of 
-een slaaf of 
-ontzettend handig of 
-een combi
 
 
