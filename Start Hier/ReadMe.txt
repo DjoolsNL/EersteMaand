@@ -1,14 +1,31 @@
-De eerste maand: je krijgt opdrachten en moet die uitvoeren en verslag uitbrengen
+Leerprogramma De Eerste Vier Weken
 
-# Welke tools heb je nodig:
-vscode
-bee.outlook email
-discord
-firefox
-github account
-zandbak
-mcquestions
-chatgpt
+In de software-straat staat praktijkleren (learning on the job) centraal. Je gaat hier veel nieuwe dingen leren en dit leerprogramma gaat je daarbij helpen. Hier leg je de basis om aan te haken bij het team van testers.  
+
+In de eerste 4 weken doe je niet mee aan het testwerk, je wordt niet betrokken in het  werkoverleg en neemt niet deel aan meetings. Je focus ligt helemaal op je eigen leerproces.  
+
+De leerdoelen zijn: 
+je hebt de nodige handigheid opgebouwd in het werken met Visual Studio Code, Discord, Outlook, Firefox, openAI en Github,
+je begrijpt de basis van het geautomatiseerd testen van web applicaties en je kunt basic end-to-end testscripts schrijven,
+je weet hoe je je eigen digitale werkomgeving efficient inricht en organiseert,
+
+de basisbegrippen een stukje overall IT kennis,
+de basisbeginselen van programmeren,
+effectief te zoeken naar informatie die je nodig hebt 
+
+Welke tools heb je nodig voor de eerste maand:
+je eigen IDE: visual studio code, 
+voor de onderlinge communicatie: discord,
+om te browsen: firefox of edge (google gebruiken we alleen om te testen),
+voor tekstverwerken en spreadsheets: open office,
+voor email communicatie: microsoft outlook,
+om belangrijke begrippen te leren: mcquestions.
+
+Welke accounts heb je nodig:
+bee outlook.com, 
+chatGPT,
+github.
+
 
 # In deze maand leer je: 
 met de Cypress zandbak om te gaan en je eigen E2E testscript te schrijven
@@ -25,12 +42,24 @@ zo goed mogelijk af te werken.
 # Je doet niet mee aan reviews of daily scrums. Je werkt buiten scrum en CarSys. In je eerste 
 maand werk je aan je technische basiskennis en je vermogen om te leren. 
 
+elke week moet beheersing van een van de tools centraal staan
+1. chatGPT vscode   
+2. vscode en cypress
+3. cypress en github
+4. github chatGPT
+
+cypress: presentatie van 3 geteste websites, een naar eigen keuze, twee waar je van github gebruik moet maken
+vscode: maak een folderstructuur met files die de onderwerpen laat zien die je met chatGPT hebt onderzocht
+
+
+
+
 Je mag altijd en iedereen vragen stellen.  
 
 Specs Eerste maand
 Describe Plan Week 1
 it-block Get Started: Set Up and start
-A. Visual Studio Code installeren en uitproberen
+A. Visual Studio Code installeren en vertrouwd mee raken
 A. Expected outcome: op het eind van week 1 heb je al wat handigheid opgebouwd met VSC
 A. clone repository oefenen met vscode en ga aan de slag
 
@@ -60,6 +89,7 @@ EH Wat is QA?
 
 F. Github: je eigen vitrine kast bij sollicitaties
 
+
 Week 3
 Aan de slag met McQuestions en ChatGPT om javascript / cypress op te pakken
 
@@ -73,6 +103,8 @@ probeer samen te vatten wat je begrijpt. niet wat je onthouden moet.
 
 je kunt strings op heel veel verschillende manieren definieren. Moet je die allemaal
 onthouden of is het voldoende als je er al eens van hebt gehoord? 
+
+
 
 
 

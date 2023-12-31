@@ -1,0 +1,28 @@
+
+Overzicht Programma Week 1
+
+Je begint met de volgende accounts aan te maken:
+bee outlook.com, 
+chatGPT,
+github,
+Discord.
+
+Vervolgens installeer je:
+Visual Studio Code en
+Discord.
+
+
+
+A. Visual Studio Code installeren en er vertrouwd mee raken.
+A. Expected outcome: op het eind van week 1 heb je al wat handigheid opgebouwd met VSC
+A. clone repository oefenen met vscode en ga aan de slag
+
+B. Discord installeren 
+B. Expected outcome: je doet al snel mee in de daily. Je vertelt in de daily dagelijks wat je gaat doen 
+om jouw programma af te werken en hoe je naar de Expected Outcome wil toewerken 
+
+C. Curriculum Vitae - bespreken, verbeteren
+C. Expected outcome: op het eind van week 1 is het beter dan het was
+
+cc ChatGPT
+cc Expected outcome: handigheid opgebouwd in het werken met ChatGPT
