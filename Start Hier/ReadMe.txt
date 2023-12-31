@@ -1,10 +1,22 @@
 Leerprogramma De Eerste Vier Weken
 
-In de software-straat staat praktijkleren (learning on the job) centraal. Je gaat hier veel nieuwe dingen leren en dit leerprogramma gaat je daarbij helpen. Hier leg je de basis om aan te haken bij het team van testers.  
 
-In de eerste 4 weken doe je niet mee aan het testwerk, je wordt niet betrokken in het  werkoverleg en neemt niet deel aan meetings. Je focus ligt helemaal op je eigen leerproces.  
+In de software-straat staat praktijkleren (learning on the job) centraal. Je gaat hier veel nieuwe 
+dingen leren en dit leerprogramma gaat je daarbij helpen. Hier leg je de basis om aan te haken 
+bij het team van testers.  
 
-De leerdoelen zijn: 
+In de eerste 4 weken doe je niet mee aan het testwerk, je wordt niet betrokken in het werkoverleg 
+en neemt niet deel aan meetings. Je focus ligt helemaal op je eigen leerproces.  
+
+Elke week heeft zijn eigen programma met lesmateriaal, opdrachten en oefeningen.
+
+Week 1 is de zgn stage week. Die doorloop je en na afloop gaan we evalueren. Is er een match tussen 
+jou en de IT? Zijn wij als software straat een match met jou? Hoe kijkt WSP ertegen aan. Als de uitslag 
+positief is ga je verder met het leerprogramma in de software straat. 
+
+Is er na die eerste week geen match dan houdt het voor jou bij de software straat op. 
+
+De leerdoelen van de eerste vier weken zijn: 
 je hebt de nodige handigheid opgebouwd in het werken met Visual Studio Code, Discord, Outlook, Firefox, openAI en Github,
 je begrijpt de basis van het geautomatiseerd testen van web applicaties en je kunt basic end-to-end testscripts schrijven,
 je weet hoe je je eigen digitale werkomgeving efficient inricht en organiseert,
