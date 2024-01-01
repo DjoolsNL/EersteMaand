@@ -1,20 +1,20 @@
 Leerprogramma De Eerste Vier Weken
 
 
-In de software-straat staat praktijkleren (learning on the job) centraal. Je gaat hier veel nieuwe 
-dingen leren en dit leerprogramma gaat je daarbij helpen. Hier leg je de basis om aan te haken 
-bij het team van testers.  
+In de software-straat BEE/CarSys staat praktijkleren (learning on the job) centraal. Je gaat hier veel nieuwe 
+dingen leren en dit leerprogramma helpt daarbij. Hier leg je de basis om aan te haken bij het team van testers.  
 
-In de eerste 4 weken doe je niet mee aan het testwerk, je wordt niet betrokken in het werkoverleg 
-en neemt niet deel aan meetings. Je focus ligt helemaal op je eigen leerproces.  
+In de eerste 4 weken van je traject doe je niet mee aan het testwerk, je wordt niet betrokken in het werkoverleg 
+en neemt niet deel aan meetings. Je focus ligt helemaal op je eigen leerproces. Je probeert aan de hand van het 
+programma zoveel mogelijk te leren.  
 
-Elke week heeft zijn eigen programma met lesmateriaal, opdrachten en oefeningen.
+Elk van de vier weken heeft zijn eigen programma met lesmateriaal, opdrachten en oefeningen.
 
-Week 1 is de zgn stage week. Die doorloop je en na afloop gaan we evalueren. Is er een match tussen 
-jou en de IT? Zijn wij als software straat een match met jou? Hoe kijkt WSP ertegen aan. Als de uitslag 
-positief is ga je verder met het leerprogramma in de software straat. 
+Week 1 is de zgn stage week. Die doorloop je en na afloop gaan we samen evalueren. Is er een match tussen 
+jou en de IT? Zijn wij als BEE software straat een match met jou? Hoe kijkt WSP ertegen aan? Als de uitslag 
+positief is ga je verder met het leerprogramma in de BEE software straat. 
 
-Is er na die eerste week geen match dan houdt het voor jou bij de software straat op. 
+Is er na die eerste week geen match dan houdt het voor jou bij de BEE software straat op. 
 
 De leerdoelen van de eerste vier weken zijn: 
 je hebt de nodige handigheid opgebouwd in het werken met Visual Studio Code, Discord, Outlook, Firefox, openAI en Github,
@@ -23,7 +23,7 @@ je weet hoe je je eigen digitale werkomgeving efficient inricht en organiseert,
 
 de basisbegrippen een stukje overall IT kennis,
 de basisbeginselen van programmeren,
-effectief te zoeken naar informatie die je nodig hebt 
+effectief in het vinden van de noodzakelijke informatie en effectief in studeren
 
 Welke tools heb je nodig voor de eerste maand:
 je eigen IDE: visual studio code, 
@@ -84,6 +84,7 @@ C. Expected outcome: op het eind van week 1 is het beter dan het was
 
 cc ChatGPT
 cc Expected outcome: handigheid opgebouwd in het werken met ChatGPT
+cc vragenlijsten met chatgpt afwerken
 
 
 Describe Plan Week 2
@@ -94,10 +95,16 @@ E. Oefenen in de SandBox
 E  Expected outcome: kan cypress tests laten lopen en commandlog lezen
 
 E. Tester, developer, 
-EE niet alleen technisch vaardig maar ook communicatief en sociaal
+EE niet alleen technisch vaardig maar ook communicatief (overleggen, luisteren etc) en sociaal
 EF na een half jaar ben je er echt nog niet
 EG beter een taal goed leren dan 5 half
 EH Wat is QA?
+E welke rollen kun je onderscheiden binnen de it
+E
+E
+
+
+
 
 F. Github: je eigen vitrine kast bij sollicitaties
 
