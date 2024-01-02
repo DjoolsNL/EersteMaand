@@ -1,0 +1,39 @@
+{
+  "name": "beeideas_testing",
+  "version": "2.0.0",
+  "description": "E2E testing",
+  "main": "index.js",
+  "author": "BeeIdeas",
+  "scripts": {
+    "prepare": "install-vscode-extensions"
+  },
+  "dependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "@testing-library/cypress": "8.0.7",
+    "@testing-library/dom": "8.17.1",
+    "chromium": "latest",
+    "cypress-file-upload": "latest",
+    "cypress-iframe": "latest",
+    "cypress-wait-until": "latest",
+    "dayjs": "latest",
+    "drag-drop": "^7.2.0",
+    "eslint": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-cypress": "latest",
+    "eslint-plugin-prettier": "latest",
+    "faker": "^5.5.3",
+    "isexe": "latest",
+    "mkdirp": "latest",
+    "node-fetch": "latest",
+    "prettier": "latest",
+    "rimraf": "latest",
+    "tap": "latest",
+    "which": "latest"
+  },
+  "devDependencies": {
+    "cypress": "^10.0.1",
+    "cypress-network-idle": "^1.14.2",
+    "install-vscode-extensions": "^1.0.0",
+    "mailslurp-client": "^15.10.0"
+  }
+}

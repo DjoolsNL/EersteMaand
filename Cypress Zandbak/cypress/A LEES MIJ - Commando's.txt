@@ -1,0 +1,11 @@
+-- Commando's voor de Terminal --
+xx installatie Cypress:
+npm install --no-save
+npm update --no-save
+npm install cypress@10.11.0
+
+xx start Cypress applicatie: 
+npx cypress open auto-start --e2e --browser chrome
+
+
+
