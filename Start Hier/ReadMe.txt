@@ -19,7 +19,8 @@ Is er na die eerste week geen match dan houdt het voor jou bij de BEE software s
 De leerdoelen van de eerste vier weken zijn: 
 je hebt de nodige handigheid opgebouwd in het werken met Visual Studio Code, Discord, Outlook, Firefox, openAI en Github,
 je begrijpt de basis van het geautomatiseerd testen van web applicaties en je kunt basic end-to-end testscripts schrijven,
-je weet hoe je je eigen digitale werkomgeving efficient inricht en organiseert,
+je weet hoe je je eigen digitale werkomgeving efficient inricht en beheert,
+best practice: organiseer en beheer taakbalk en desktop 
 
 de basisbegrippen een stukje overall IT kennis,
 de basisbeginselen van programmeren,
