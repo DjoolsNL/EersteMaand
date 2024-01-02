@@ -1,0 +1,9 @@
+In deze map zie je twee folders:
+Food World A en
+Food World B.
+
+De twee mappen laten zien hoe iets op verschillende manieren kunt 
+structureren. In de IT noemen we zo'n structuur ook wel architectuur.
+
+ 
+
