@@ -5,5 +5,5 @@ Food World B.
 De twee mappen laten zien hoe iets op verschillende manieren kunt 
 structureren. In de IT noemen we zo'n structuur ook wel architectuur.
 
- 
+
 
