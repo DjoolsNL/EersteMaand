@@ -1,4 +1,8 @@
-Opdracht1 - Toolvaardigheid VSCode: Basiskennis user interface 
+VSCode
+
+----------------------------------------------------------------------------------
+
+Opdracht - Skill omgaan met VSCode: Basiskennis user interface 
 
 In de map 
 
@@ -23,7 +27,7 @@ minimap,
 breadrumbs,
 tabs.
 
-Je bewaart de bewerkte screenshots in de map: Week1/Leermateriaal/VSCode
+Je bewaart de bewerkte screenshots in de map: C1 Week1/Leermateriaal/VSCode
 
 De volgende webpagina helpt je bij deze opdracht
 
@@ -34,10 +38,6 @@ Lees op de webpagina de toelichtingen op de diverse onderdelen.
 
 WAAROM
 Je leert de diverse onderdelen van het userinterface bij naam en functie zodat je 
-effectief met anderen kunt communiceren als je gaat samenwerken.
-
-
-
-
-
+effectief met VSCode kunt werken en met anderen kunt communiceren als je gaat 
+samenwerken.
 

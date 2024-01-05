@@ -1,0 +1,42 @@
+Leerdoelen
+
+------------------------------------------------------------------------
+
+Leerdoelen week1
+
+VOORAF
+Voor een aantal doelen zijn in de map van Week1 opdrachten te vinden
+maar voor enkele anderen niet. Dat betekent niet dat ze minder belangrijk
+zijn. Het betekent dat je zelf aan de slag moet om een manier te vinden
+om het weekdoel te halen. 
+
+DE LEERDOELEN
+Tools: VISUAL STUDIO CODE 
+- Je kunt VSCodedownloaden en installeren.
+- Je weet wat een IDE is.
+- Je kent de belangrijkste onderdelen van VSC en kent hun functie. 
+- Je kunt een folder met VSC openen en sluiten.
+- Je weet hoe je in de explorer folders kunt open- en dichtklappen kunt. 
+- Je weet hoe je een file in de editor kunt openen, bewerken, saven 
+en afsluiten.    
+
+Tools: CHATGPT
+- Je weet wat AI is en wat een LLM is en je kunt het aan een ander uitleggen.
+- Je kent de tips en trucs om de beste resutaten te krijgen met ChatGPT.
+- Je weet zo'n beetje waarin ChatGPT goed is en waarin niet.
+- Je begrijpt dat je nooit blindelings moet vertrouwen op de antwoorden
+maar dat je je gezond verstand moet blijven gebruiken als je hem raadpleegt.
+- Je weet hoe je antwoorden kunt checken die je niet vertrouwd of die voor
+jou belangrijk zijn.
+
+Tools: de CYPRESS ZANDBAK
+- Je weet hoe je de Zandbak moet gebruiken om een test te laten runnen.
+- Je hebt de tests in de map 'Klei' laten runnen.
+- Je weet wat het commandlog is en wat het commando cy.log() doet.
+- Je weet waartoe het commando cy.get() dient. 
+- Je weet waartoe 'describes' en 'it-blocken' dienen.
+
+Skill Tesyvaardigheid
+- Je weet wat de DOM is.
+- Je weet wat end-toend testing is.
+- Je weet wat een userscenario is.

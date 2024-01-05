@@ -1,0 +1,18 @@
+Accounts Downloads Installaties
+
+----------------------------------------------------------------------------------
+
+Opdracht - Skill omgaan met tools
+
+De OPDRACHT
+Je begint met de volgende accounts aan te maken:
+voornaam + achternaam + bee@outlook.com, 
+chatGPT,
+github.
+
+Vervolgens download en installeer je:
+Visual Studio Code
+
+WAAROM
+Deze tools heb je nodig in dit programma. Je moet ervoor zorgen dat je met de tools
+vertrouwd raakt en er handig mee kunt werken. 

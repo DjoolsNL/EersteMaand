@@ -7,7 +7,8 @@
 // -------------------------------------------------------------------------------------------------
 // Het doel van e2e tests is om een webservice/website te gebruiken zoals een user/consument
 // dat zou doen. In het geval van CarSys betekent het dat we de CarSys
-// applicatie gebruiken alsof we zelf de garagehouder zijn.
+// applicatie gebruiken alsof we zelf de garagehouder zijn die de applicatie gebruikt om
+// de werkprocessen binnen zijn bedrijf te managen.
 //
 // Je het script schrijven volgens de handleidingen van CarSys. Dat hebben we gedaan en behoorlijk
 // dekkend. Maar wat als we ook testen wat er gebeurt als we hier en daar foute buttons drukken of

@@ -1,47 +1,133 @@
-Leerprogramma DE EERSTE VIER WEKEN
+LEESMij
 
-In de software-straat BEE/CarSys staat praktijkleren (learning on the job) centraal. Je gaat hier veel nieuwe 
-dingen leren en dit leerprogramma helpt je om een vlotte start te maken. In de eerste vier weken leg je de 
-basis om aan te haken bij het team van testers.  
+------------------------------------------------------------------------
+
+Leerprogramma DE EERSTE VIER WEKEN - overzicht 
+
+
+In de software-straat BEE/CarSys staat praktijkleren (learning on the job) centraal. 
+Je gaat hier veel nieuwe dingen leren en dit leerprogramma helpt je daarbij. In de 
+eerste vier weken leg je de basis om aan te haken bij het team van testers.  
 
 Het programma bestaat uit LEERDOELEN, LEERMATERIALEN en OPDRACHTEN. 
 
-De LEERDOELEN formuleren wat je in de eerste vier weken aan de hand van het programma kan leren. De OPDRACHTEN 
-zijn bedoeld om je actief met de studiestof om te laten gaan. De LEERMATERIALEN vervullen een ondersteunende rol.  
+De LEERDOELEN 
+formuleren wat je in de eerste vier weken aan de hand van het programma kunt leren. 
+De nadruk ligt op het verwerven van skills. Vaardigheden die aangeleerd en in de 
+praktijk aangewend kunnen worden.
 
-In de eerste 4 weken van je traject doe je niet mee aan het testwerk, je wordt niet betrokken in het werkoverleg 
-en neemt niet deel aan meetings. Je focus ligt helemaal op je eigen leerproces. Je probeert aan de hand van het 
-programma zoveel mogelijk te leren.  
+Het gaat om de volgende skills:
+- toolvaardigheid,
+- testvaardigheid,
+- studeervaardigheid,
+- sociale vaardigheden.
 
-Elk van de vier weken heeft zijn eigen programma met lesmateriaal, opdrachten en oefeningen.
+Toolvaardigheid: het kunnen werken met professionele tools die door testers 
+in de IT worden gebruikt. 
+
+Testvaardigheid: je begrijpt hoe het testen van websites werkt, je kunt basic 
+testscenario's en -scripts schrijven en je begrijpt de plek en functie van testen
+in een IT organisatie.  
+
+Studeervaardigheid: je weet hoe je efficient moet studeren. 
+xxxxxxxxxxx
+omgaan met je beperkte tijd. Je moet
+iets leren. Ok. Komt de informatie gestructureerd op je af zodat je makkelijk een logica
+kunt ontdekken? Nee? Manage wat op je afkomt en vooral manage waar je naartoe wil. In de
+IT zul je voortdurend moeten bijleren. Een IT bedrijf is geen strong typed object.    
+
+Ga niet studeren als je geestelijk, emotioneel of fysiek vermoeid bent. Studeren draait om
+concentratie. Wanneer kun je een of twee uur achter elkaar met dat ene ding bezig zijn? 
+Kun je dat 3 keer per week? Of 2 keer per dag 5 dagen in de week? 
+
+Maak een studieplan. Je weet de deadlines. Je kent de LEERDOELEN. 
+xxxxxxxxxxxx
+
+Sociale vaardigheden: je bent  `  
+
+De OPDRACHTEN 
+zijn bedoeld om te leren omgaan met de tools die we gebruiken. 
+
+Er is een ook nog een EINDOPDRACHT
+Dit is een presentatie van 45 minuten met ruimte voor vragen die je ergens in de laatste week 
+van de leerperiode aan het team geeft. Maak een studieplan. Je weet de deadlines. 
+Je kent de LEERDOELEN. 
+
+In de presentatie laat je zien welke website je hebt getest. Waarom uitgekozen, wat heb je
+getest en hoe. Welke moeilijkheden ben je tegen gekomen? Wat is je opgevallen toen je met chatGPT
+aan het babbelen was? Wat heb je uiteindelijk niet gedaan? 
+
+De LEERMATERIALEN 
+vervullen een ondersteunende rol.  
+
+Je EIGEN LEERPROCES
+is in deze periode het belangrijkst. Daarom doe je in de eerste 4 weken niet mee aan 
+het testwerk, wordt je niet betrokken in het werkoverleg en je neemt ook niet deel aan meetings. 
+De focus ligt helemaal op. Probeer aan de hand van het programma zoveel mogelijk te leren.   
+
+Elk van de vier weken heeft zijn eigen weekprogramma met lesmateriaal, opdrachten en oefeningen.
 
 Week 1 is de zgn stage week. Die doorloop je en na afloop gaan we samen evalueren. Is er een match tussen 
 jou en de IT? Zijn wij als BEE software straat een match met jou? Hoe kijkt WSP ertegen aan? Als de uitslag 
-positief is ga je verder met het leerprogramma in de BEE software straat. 
+positief is ga je verder met het leerprogramma in de BEE software straat. Na afloop van week 1 gaan we ook een
+plan opstellen voor de rest van je traject. 
 
-Is er na die eerste week geen match dan houdt het voor jou bij de BEE software straat op. 
+Is er na die eerste week geen match dan houdt het voor jou bij de BEE-software straat op. 
 
-
-Studievaardigheden:
-- ontdek hoe je zelf het meest efficient leert
-- orientatie op dat wat je leren wil
-- samenvattingen en aantekeningen maken
-- zelfstandig op zoek gaan naar informatie die je verder helpt 
-
-Toolvaardigheden:
-- VSC
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1. SKILL OMGAAN MET TOOLS
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Wij werken met tools die binnen de branche veel worden 
+gebruikt. Het leren werken daarmee is essentiele
+basiskennis voor elke IT-er. In de eerste vier weken 
+leer je te werken met:
+- Visual Studie Code (ook wel VSC of VSCode genoemd)
 - ChatGPT
 - Github
 - Cypress
 - Browser en devtools
 
-Werkvaardigheden:
-- je digitale werkplek efficient inrichten en beheren 
+Naast deze tools zul je ook leren om je digitale 
+werkomgeving (je computer) efficient in te richten en 
+te beheren.
 
-Testvaardigheden:
-- in user scenario's kunnen denken
-- userscenario naar testscenario omzetten
-- testscenario naar testscript omzetten
+Welke onderwerpen kom je in de eerste vier weken tegen?
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2. SKILL LEREN EN STUDEREN
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+De IT-branche kenmerkt zich door voortdurende innovatie 
+en verandering. Werken in de IT vereist dat je bereid 
+en in staat bent om voortdurend bij te leren.
+
+Leren/studeren is grotendeels een vaardigheid die je je 
+eigen kunt maken: 
+- ontdek hoe je zelf het meest efficient leert
+- orientatie op dat wat je leren wil/moet
+- samenvattingen en aantekeningen maken
+- zelfstandig op zoek gaan naar informatie die je verder 
+helpt 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3. SKILL TESTEN
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Wij testen webstites met CYPRESS. Het is een van de 
+meestgebruikte professione tools voor web.
+
+
+
+
+
+Testen is een vak apart binnen de IT. De tests moeten 
+bugs en tekortkomingen in de software opsporen
+zodat de developers deze kunnen oplossen. In onze 
+software straat voeren wij end-to-end tests uit. Dat
+zijn tests waarin de tester moet leren te denken en 
+handelen alsof hij de gebruiker van de software is.
+Dat houdt in dat je leert:
+- in userscenario's te denken
+- userscenario naar testscenario's kunt omzetten en
+- testscenario's naar testscripts kunt omzetten
 
 
 
