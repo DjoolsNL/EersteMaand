@@ -4,13 +4,14 @@ Leerdoelen
 
 Leerdoelen week1
 
-VOORAF
+VOORAF - BELANGRIJK!
 Voor een aantal doelen zijn in de map van Week1 opdrachten te vinden
 maar voor enkele anderen niet. Dat betekent niet dat ze minder belangrijk
 zijn. Het betekent dat je zelf aan de slag moet om een manier te vinden
 om het weekdoel te halen. 
 
 DE LEERDOELEN
+
 Tools: VISUAL STUDIO CODE 
 - Je kunt VSCodedownloaden en installeren.
 - Je weet wat een IDE is.
@@ -36,7 +37,7 @@ Tools: de CYPRESS ZANDBAK
 - Je weet waartoe het commando cy.get() dient. 
 - Je weet waartoe 'describes' en 'it-blocken' dienen.
 
-Skill Tesyvaardigheid
+Skill: TESTVAARDIGHEID
 - Je weet wat de DOM is.
-- Je weet wat end-toend testing is.
+- Je weet wat end-to-end testing is.
 - Je weet wat een userscenario is.

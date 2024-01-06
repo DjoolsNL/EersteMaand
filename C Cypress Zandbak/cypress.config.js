@@ -6,7 +6,7 @@ module.exports = {
     viewportWidth: 1600,
     e2e: {
         experimentalSessionAndOrigin: false,
-        specPattern: "./cypress/tests/**/*.cy.js",
+        specPattern: "*/cypress/tests/**/*.cy.js",
         // We've imported your old cypress plugins here.
         // You may want to clean this up later by importing these.
         setupNodeEvents(on, config) {
