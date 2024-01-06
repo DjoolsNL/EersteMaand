@@ -1,0 +1,163 @@
+LEERPROCES
+
+------------------------------------------------------------------------
+
+Je EIGEN LEERPROCES
+is in dit programma het belangrijkst. Daarom doe je in de eerste 4 weken niet mee aan 
+het testwerk, wordt je niet betrokken in het werkoverleg en je neemt ook niet deel aan 
+meetings. De focus ligt helemaal op je leerproces. Probeer aan de hand van het programma 
+zoveel mogelijk te leren.   
+
+Leren, hoe doe je dat? Iedereen heeft zo zijn eigen manier maar er zijn wel enkele basistips:
+- Ga niet studeren als je geestelijk, emotioneel of fysiek vermoeid bent. Alleen
+als je fit en ontspannen bent kun je de concentratie opbrengen die nodig is.
+
+- Als je iets gaat leren dat volkomen nieuw voor je is begin je eerst met een verkenning
+van het onbekende. Je probeert het onderwerp een beetje in kaart te brengen zodat je overzicht 
+krijgt. Je verkent ook de opzet van de cursus, tutorial of online-artikel over een onderwerp. 
+
+- Maak een samenvatting van wat je leert. Schools opschrijven wat jij denkt dat je hebt 
+geleerd dwingt je om opnieuw intensief en cognitief met de leerstof te werken gaan. Probeer 
+structuren te vinden in dat wat je bent tegenkomen in de leerstof. 
+
+- 
+
+
+
+Manage wat op je afkomt en vooral manage waar je naartoe wil. In de
+IT zul je voortdurend moeten bijleren. Een IT bedrijf is geen strong typed object.    
+
+ Studeren draait om
+concentratie. Wanneer kun je een of twee uur achter elkaar met dat ene ding bezig zijn? 
+Kun je dat 3 keer per week? Of 2 keer per dag 5 dagen in de week? 
+
+Maak een studieplan. Je weet de deadlines. Je kent de LEERDOELEN. 
+
+
+
+
+??????????????????????
+Week 1 is de zgn stage week. Die doorloop je en na afloop gaan we samen evalueren. Is er een match tussen 
+jou en de IT? Zijn wij als BEE software straat een match met jou? Hoe kijkt WSP ertegen aan? Als de uitslag 
+positief is ga je verder met het leerprogramma in de BEE software straat. Na afloop van week 1 gaan we ook een
+plan opstellen voor de rest van je traject. 
+
+Is er na die eerste week geen match dan houdt het voor jou bij de BEE-software straat op. 
+????????????????????????
+
+
+
+
+xxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+De leerdoelen van de eerste vier weken zijn: 
+je hebt de nodige handigheid opgebouwd in het werken met Visual Studio Code, Discord, Outlook, Firefox, openAI en Github,
+je begrijpt de basis van het geautomatiseerd testen van web applicaties en je kunt basic end-to-end testscripts schrijven,
+je weet hoe je je eigen digitale werkomgeving efficient inricht en beheert,
+best practice: organiseer en beheer taakbalk en desktop 
+
+de basisbegrippen een stukje overall IT kennis,
+de basisbeginselen van programmeren,
+effectief in het vinden van de noodzakelijke informatie en effectief in studeren
+
+Welke tools heb je nodig voor de eerste maand:
+je eigen IDE: visual studio code, 
+voor de onderlinge communicatie: discord,
+om te browsen: firefox of edge (google gebruiken we alleen om te testen),
+voor tekstverwerken en spreadsheets: open office,
+voor email communicatie: microsoft outlook,
+om belangrijke begrippen te leren: mcquestions.
+
+Welke accounts heb je nodig:
+bee outlook.com, 
+chatGPT,
+github.
+
+
+# In deze maand leer je: 
+met de Cypress zandbak om te gaan en je eigen E2E testscript te schrijven
+met de tools te werken (handigheid met vscode, discord, outlook, firefox)
+je digitale werkomgeving efficient in te richten en te organiseren
+een stukje overal IT kennis met mcq
+de basisbeginselen van programmeren
+
+# Uiterlijk in de laatste week van de maand presenteer je je eigen zandbak project.
+
+# In de eerste maand ga je je eigen gang. Je probeert het programma van de eerste maand
+zo goed mogelijk af te werken. 
+
+# Je doet niet mee aan reviews of daily scrums. Je werkt buiten scrum en CarSys. In je eerste 
+maand werk je aan je technische basiskennis en je vermogen om te leren. 
+
+elke week moet beheersing van een van de tools centraal staan
+1. chatGPT vscode   
+2. vscode en cypress
+3. cypress en github
+4. github chatGPT
+
+cypress: presentatie van 3 geteste websites, een naar eigen keuze, twee waar je van github gebruik moet maken
+vscode: maak een folderstructuur met files die de onderwerpen laat zien die je met chatGPT hebt onderzocht
+
+
+
+
+Je mag altijd en iedereen vragen stellen.  
+
+Specs Eerste maand
+Describe Plan Week 1
+it-block Get Started: Set Up and start
+A. Visual Studio Code installeren en vertrouwd mee raken
+A. Expected outcome: op het eind van week 1 heb je al wat handigheid opgebouwd met VSC
+A. clone repository oefenen met vscode en ga aan de slag
+
+B. Discord installeren 
+B. Expected outcome: je doet al snel mee in de daily. Je vertelt in de daily dagelijks wat je gaat doen 
+om jouw programma af te werken en hoe je naar de Expected Outcome wil toewerken 
+
+C. Curriculum Vitae - bespreken, verbeteren
+C. Expected outcome: op het eind van week 1 is het beter dan het was
+
+cc ChatGPT
+cc Expected outcome: handigheid opgebouwd in het werken met ChatGPT
+cc vragenlijsten met chatgpt afwerken
+
+
+Describe Plan Week 2
+D. Om over na te denken en te praten: Waar wil je naartoe? Waar ben je goed in, wat vind je leuk?
+D. Expected outcome: cursist en tl vinden de gesprekken nuttig geweest
+
+E. Oefenen in de SandBox
+E  Expected outcome: kan cypress tests laten lopen en commandlog lezen
+
+E. Tester, developer, 
+EE niet alleen technisch vaardig maar ook communicatief (overleggen, luisteren etc) en sociaal
+EF na een half jaar ben je er echt nog niet
+EG beter een taal goed leren dan 5 half
+EH Wat is QA?
+E welke rollen kun je onderscheiden binnen de it
+E
+E
+
+
+
+
+F. Github: je eigen vitrine kast bij sollicitaties
+
+
+Week 3
+Aan de slag met McQuestions en ChatGPT om javascript / cypress op te pakken
+
+Hoe staat het met je windows vaardigheden? Weet je je digitale werkomgeving 
+efficient in te richten en te gebruiken?
+
+Studeren, hoe doe je dat?
+Enerzijds onthouden anderzijds proberen te begrijpen. 
+maak samenvattingen, zonder samenvattingen ben je niet serieus met studeren bezig
+probeer samen te vatten wat je begrijpt. niet wat je onthouden moet.
+
+je kunt strings op heel veel verschillende manieren definieren. Moet je die allemaal
+onthouden of is het voldoende als je er al eens van hebt gehoord? 
+
+
