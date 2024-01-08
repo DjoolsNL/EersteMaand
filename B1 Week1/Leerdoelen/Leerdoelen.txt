@@ -13,11 +13,11 @@ om het weekdoel te halen.
 DE LEERDOELEN
 
 Tools: VISUAL STUDIO CODE 
-- Je kunt VSCodedownloaden en installeren.
+- Je kunt VSCode downloaden en installeren.
 - Je weet wat een IDE is.
 - Je kent de belangrijkste onderdelen van VSC en kent hun functie. 
 - Je kunt een folder met VSC openen en sluiten.
-- Je weet hoe je in de explorer folders kunt open- en dichtklappen kunt. 
+- Je weet hoe je in de explorer folders kunt open- en dichtklappen. 
 - Je weet hoe je een file in de editor kunt openen, bewerken, saven 
 en afsluiten.    
 
