@@ -6,7 +6,7 @@ Opdracht - Skill omgaan met VSCode: Basiskennis user interface
 
 In de map 
 
-Week1/Leermateriaal/VSCode 
+B1 Week1/Ter Ondersteuning/VSCode 
 
 staan screenshots van VSCode's userinterface.
 
@@ -27,7 +27,7 @@ minimap,
 breadrumbs,
 tabs.
 
-Je bewaart de bewerkte screenshots in de map: C1 Week1/Leermateriaal/VSCode
+Je bewaart de bewerkte screenshots in de map: B1 Week1/Ter Ondersteuning/VSCode 
 
 De volgende webpagina helpt je bij deze opdracht
 

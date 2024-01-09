@@ -2,7 +2,7 @@ Accounts Downloads Installaties
 
 ----------------------------------------------------------------------------------
 
-Opdracht - Skill omgaan met tools
+Opdracht - ToolSkills - omgaan met tools
 
 De OPDRACHT
 Je begint met de volgende accounts aan te maken:
@@ -14,5 +14,5 @@ Vervolgens download en installeer je:
 Visual Studio Code
 
 WAAROM
-Deze tools heb je nodig in dit programma. Je moet ervoor zorgen dat je met de tools
-vertrouwd raakt en er handig mee kunt werken. 
+Deze tools heb je nodig in dit leerprogramma. Je moet ervoor zorgen dat je met deze tools
+vertrouwd raakt zodat je er handig mee kunt werken. 

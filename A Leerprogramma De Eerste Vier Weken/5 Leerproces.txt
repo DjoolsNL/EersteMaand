@@ -8,7 +8,68 @@ het testwerk, wordt je niet betrokken in het werkoverleg en je neemt ook niet de
 meetings. De focus ligt helemaal op je leerproces. Probeer aan de hand van het programma 
 zoveel mogelijk te leren.   
 
-Leren, hoe doe je dat? Iedereen heeft zo zijn eigen manier maar er zijn wel enkele basistips:
+Maar... studeren, hoe doe je dat? Helaas, er is eigenlijk niemand die die vraag voor jou 
+kan beantwoorden want wat bij de een werkt, hoeft niet ook bij de ander te werken. 
+
+De een zweert bij video's, de ander bij podcasts, een derde leest liever boeken. Jan 
+kan niet studeren zonder muziek en Helen niet met. De een is 's ochtends op zijn best en 
+weer een ander studeert liever 's avonds. 
+
+Voordat je gaat denken 'hier heb ik dus ook niets aan' komen hier enkele tips die voor 
+iedereen gelden.
+- Er zijn twee criteria die je in de gaten moet houdenGa niet zo maar af op hoe anderen het 
+doen maar probeer die manier wel uit en kijk of het je bevalt en of je er wat aan hebt. 
+Is dat niet het geval zoek dan verder.
+
+- Op het internet is heel veel informatie te vinden over programmeren en programmeertalen. 
+Helaas is die 
+
+Sla alles over wat buiten de obifias (if-statements, foreach loops, bools, integers, arrays, 
+strings en objecten) valt. 
+
+Als je iets niet begrijpt denk dan niet meteen dat het aan jou ligt. Het kan ook aan de bron
+liggen waarvan je probeert te leren. Technische informatie op internet is vaak geschreven 
+voor gevorderde professionele programmeurs. Dat je die niet begrijpt is logisch. Of iemand
+kan het gewoon slecht overbrengen aan een beginner. Ook dat ligt niet aan jou. Ga dus niet
+aan je zelf twijfelen of je enthousiasme verliezen want je hebt opties. Meer dan zat.
+
+Switch gewoon naar een andere informatiebron die hetzelfde onderwerp behandeld. Hier heb
+je google voor. Het is echt niet raar om een handvol bronnen te proberen via google. 
+
+Soms is een uitleg met andere woorden die je waarschijnlijk in een van de andere bronnen zult
+aantreffen al genoeg om je te helpen begrijpen. Soms ook niet. 
+
+Studeren is gestructureerd en actief verwerken van leerstof. Je geest moet voortdurend scherp 
+zijn. Het is intensieve, geestelijke arbeid. De energie gaat vooral naar het voortdurende
+gevecht om de focus te houden. 
+
+Voordat je in een flow komt zul je 20 keer tegen je zelf moeten zeggen terug naar ons onderwerp.
+
+Manage je prikkels. Schakel de afleiders uit. Maak een planning. Op papier of in gedachte. 
+Planning is altijd simpel: 
+variabele A = datum deadline 
+variabele B = datum heden     
+variabele C = A-B.Dagen()
+variabele D = 
+slagen. 
+
+
+
+
+
+
+informatie bedoeld voor de doelgroep beginners. Die is vaak door liefhebbers. Aan die eerste 
+soort informatie heb je als beginner niet zo veel en aan die tweede soort eigenlijk ook niet. 
+De liefhebber gaat je 9 van de 10 keer overladen met informatie terwijl je als beginner 
+helemaal niet kunt inschatten welke informatie voor jouw leerpad wel en welke niet relevant is. 
+
+
+
+ 
+ 
+
+
+Iedereen heeft zo zijn eigen manier maar er zijn wel enkele basistips:
 - Ga niet studeren als je geestelijk, emotioneel of fysiek vermoeid bent. Alleen
 als je fit en ontspannen bent kun je de concentratie opbrengen die nodig is.
 
@@ -17,8 +78,8 @@ van het onbekende. Je probeert het onderwerp een beetje in kaart te brengen zoda
 krijgt. Je verkent ook de opzet van de cursus, tutorial of online-artikel over een onderwerp. 
 
 - Maak een samenvatting van wat je leert. Schools opschrijven wat jij denkt dat je hebt 
-geleerd dwingt je om opnieuw intensief en cognitief met de leerstof te werken gaan. Probeer 
-structuren te vinden in dat wat je bent tegenkomen in de leerstof. 
+geleerd dwingt je om opnieuw intensief en cognitief met de leerstof te werken. Probeer 
+in de leerstof structuren te vinden die je als kapstik kunt gebruiken voor de samenvatting. 
 
 - Manage wat op je afkomt en vooral manage waar je naartoe wil. In de
 IT zul je voortdurend moeten bijleren. Maak een studieplan voor de eerste vier weken. 
