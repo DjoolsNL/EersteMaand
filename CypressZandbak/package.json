@@ -31,7 +31,7 @@
     "which": "latest"
   },
   "devDependencies": {
-    "cypress": "^10.0.1",
+    "cypress": "^10.11.0",
     "cypress-network-idle": "^1.14.2",
     "install-vscode-extensions": "^1.0.0",
     "mailslurp-client": "^15.10.0"

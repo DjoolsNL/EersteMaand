@@ -1,3 +1,8 @@
+
+Als je de Zandbak hebt gecloned zul je nog node.js en cypress moeten installeren.
+Daarvoor moet je de terminal openen. Die vind je in het menu View. 
+
+
 -- Commando's voor de Terminal --
 xx installatie Cypress:
 npm install --no-save

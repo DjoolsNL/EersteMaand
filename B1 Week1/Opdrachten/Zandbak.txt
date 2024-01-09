@@ -2,4 +2,10 @@ Zandbak
 
 ----------------------------------------------------------------------------------
 
-Je gaat al in je eerste week testscripts laten runnen en leren hoe je moet testen. 
+Je gaat al in je eerste week testscripts laten runnen en leren hoe je moet testen.
+
+Hoe gebruik je de Zandbak? 
+
+1. Open een terminal en vraag dan hoe je het doet.
+ 
+cd C:\Users\Teamlead\source\repos\EersteMaand\CypressZandbak

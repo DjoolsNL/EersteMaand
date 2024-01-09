@@ -82,24 +82,15 @@ describe("Oefenen met het Commandlog en het commando cy.log", () => {
     })
 })
 // 
-describe("Het enige dat deze describe doet is deze regel in het log zetten", () => { })
-describe("Het enige dat deze describe doet is deze regel in het log zetten", () => { })
-describe("Het enige dat deze describe doet is deze regel in het log zetten", () => { })
-describe("Deze describe doet 3 dingen:", () => {
-    it("hij schrijft een regel in het log en", () => { })
-    it("hij omsluit drie it-blocken", () => { })
-    it("het enige dat deze it-block doet is deze regel in het log zetten", () => { })
-})
-describe("Describes en it-blocken doen zelf helemaal niets", () => {
-    it("behalve een regel in het log schrijven.", () => { })
-    it("Ze worden gebruikt als doos om code te groeperen.", () => { })
-})
+
 
 describe("End-to-end betekent userscenario's testen.", () => {
-    it("Een scenario werkt je uit in een script.", () => { })
+    it("Een testscenario werk je uit in een testscript.", () => { })
     it("Scenario en script hebben hier dezelfde betekenis als in de filmwereld.", () => { })
 
-    it("Een testfile wordt door Cypress van boven naar beneden gelezen en uitgevoerd.", () => { })
+    it("Een testscript wordt door Cypress van boven naar beneden gelezen en uitgevoerd.", () => { })
     it("Net als een filmscript volgt de ene scene de andere op.", () => { })
-    it("In het testscript staan de scenes onder elkaar.", () => { })
+    it("In het testscript staan de scenes onder elkaar. Het testscript is de technische vertaling van een testscenario.", () => { })
+    it("Waarom heb je een testscenario nodig? Om te documenteren wat het testscript moet testen.", () => { })
+    it("Describes en it-blocken gebruik je om commando's die bij elkaar horen te groeperen. Net zoals in een filmscript shots gegroepeerd worden in scenes en scenes in sequences.", () => { })
 })

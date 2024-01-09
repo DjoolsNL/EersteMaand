@@ -9,7 +9,11 @@
 // Dan kun je de functionaliteiten van de site pas goed testen als je dat account
 // ook daadwerkelijk hebt en als je ook ingelogd bent. 
 // Dus wil je bijvoorbeeld testen of je op een site iemand als vriend kunt toevoegen 
-// moet je wel eerst zelf ingelogd zijn 
+// moet je wel eerst zelf een account hebben aangemaakt en ingelogd zijn. Een account
+// en ingelogd zijn in dit geval preconditions die nodig zijn om te testen of je
+// iemand als vriend kunt toevoegen. Zou je een aparte test maken om te checken of
+// je ook iemand kan ontvrienden dan is een account, ingelogd zijn en iemand die
+// je als vriend hebt toegevoegd alledrie preconditions.   
 
 
 describe("Kan ik met de zoekfuntie van de website Heerlen.nl op bijzondere bijstand zoeken?", () => {

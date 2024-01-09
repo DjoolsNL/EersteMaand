@@ -8,12 +8,13 @@
 // Het doel van e2e tests is om een webservice/website te gebruiken zoals een user/consument
 // dat zou doen. In het geval van CarSys betekent het dat we de CarSys
 // applicatie gebruiken alsof we zelf de garagehouder zijn die gebruik
-// maakt van de applicatie.   
+// maakt van de applicatie.
+
 // We testen zgn userscenario's: 
 // kan de user een vehicle aanmaken?
 // kan de user een werkorder voor dit vehicle inboeken?
 // Etc. Elk userscenario van stap 1 tot stap laatst scripten we 
-// in de testfile die dit userscenario moet uitvoeren en testen
+// in de testfile die dit userscenario moet uitvoeren en testen.
 // hieronder zie je een eenvoudig userscenario uitgewerkt.
 // kan de inwoner van Heerlen op de site Heerlen.nl info vinden over 
 // de collectieve zorgverzekering? 
