@@ -1,34 +1,17 @@
-INLEIDING
+INLEIDING LEERPROGRAMMA
 
 ----------------------------------------------------------------------------------
 
-1 In 
-2 de software-straat 
-3 BEE/CarSys staat praktijkleren 
-4 (learning on the job)
-5 centraal. Je gaat hier veel 
-6 nieuwe dingen leren en dit leerprogramma 
-7 helpt je daarbij. In de eerste vier 
-8 weken leg je de basis om aan te 
-9 haken bij het team van testers en het scrumproces.  
+In de software-straat BEE/CarSys staat praktijkleren (learning on the job)
+centraal. Je gaat er veel nieuwe dingen leren en dit leerprogramma 
+helpt je daarbij. In de eerste vier weken leg je de basis om aan te 
+haken bij het team van testers en de scrumwerkwijze.  
 
-9 Omdat testen leuk is beginnen we daarmee. Je gaat nu
-8 o.a. de websites Buienrader.nl, Heerlen.nl en WSP.nl testen. 
-7 In de laatste week van het programma 
-6 presenteer je in het bijzijn van
-5 het team een serie tests 
-4 die je hebt geschreven 
-3 voor een website 
-2 naar eigen 
-1 keuze.
+Omdat testen leuk is beginnen we daarmee. Je gaat o.a. de websites 
+Buienrader.nl, Heerlen.nl en WSP.nl testen. 
 
-Het programma bestaat uit LEERDOELEN, LEERMATERIALEN en OPDRACHTEN. 
+Ter afsluiting van je eerste vier weken presenteer je in het bijzijn van
+het team wat je allemaal hebt geleerd. Je doet dat aan de hand van een 
+website die je zelf hebt gekozen en waarvoor je zelf een testscenario en -script
+hebt geschreven.
 
-Dit is je EINDOPDRACHT:
-1 In
-2 de laatste
-3 week van het
-4 programma presenteer je in 
-5 het bijzijn van het team een 
-6 serie tests die je zelf geschreven
-7 hebt voor een website naar eigen keuze. 

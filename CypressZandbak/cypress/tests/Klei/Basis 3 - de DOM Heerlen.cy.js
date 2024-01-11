@@ -10,6 +10,11 @@
 // en met cy.get() kunnen we binnen de DOM zoeken en selecteren 
 
 describe("Oefenen met de DOM", () => {
+    Cypress.on('uncaught:exception', (err, runnable) => {
+        // returning false here prevents Cypress from
+        // failing the test
+        return false
+      })
     it('1. Wat heeft Heerlen te bieden bij de bijzondere bijstand', () => {
 
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
@@ -22,21 +27,21 @@ describe("Oefenen met de DOM", () => {
         // .as('allAnchors') wijst alle <a>'s toe aan variabele 'allAnchors'
         // zodat we die variabele kunnen gebruiken om iets met de 
         // collectie <a>'s te doen 
-        cy.get('a').as('allAnchors')
+        //cy.get('a').as('allAnchors')
 
         // hier loopen we over de collectie <a>'s. 
         // Loopen wil zeggen dat alle elementen in de collectie
         // 1 voor 1 apart worden genomen (in de loop) zodat ze 1 voor 1 gebruikt kunnen
         // worden. De .each() zorgt daarvoor. 
         // let teller = 1  
-        let teller = 1 // hiermee geven we een nummer mee aan de logging van de <a>'s
-        cy.get('@allAnchors').each((a) => {
-            // dit is binnen een loop. 'a' staat weer voor de <a> die in deze loop
-            // aan de beurt komt 
-            const href = a.prop('href');
-            cy.log('link ' + teller + ': ' + href);
-            teller++ // variabele++ betekent verhoog waarde variabele met 1
-        });
+        // let teller = 1 // hiermee geven we een nummer mee aan de logging van de <a>'s
+        // cy.get('@allAnchors').each((a) => {
+        //     // dit is binnen een loop. 'a' staat weer voor de <a> die in deze loop
+        //     // aan de beurt komt 
+        //     const href = a.prop('href');
+        //     cy.log('link ' + teller + ': ' + href);
+        //     teller++ // variabele++ betekent verhoog waarde variabele met 1
+        // });
 
         // In html kan elk element een id attribuut hebben.
         // cy.get('#searchbox') zoekt niet op een element in de DOM
@@ -44,7 +49,7 @@ describe("Oefenen met de DOM", () => {
         // zijn naar een specifiek id
         cy.get('#searchbox').type('bijzondere bijstand{enter}') // {enter} voert het commando enter uit 
 
-        // cy.get('p') selecteert alle <p> elementen in de DOM
+        //cy.get('p') selecteert alle <p> elementen in de DOM
         cy.get('p').contains('Collectieve ziektekostenverzekering').click()
 
         // cy.get('button span') haalt alle <button>'s die een <span> element bevatten uit de DOM

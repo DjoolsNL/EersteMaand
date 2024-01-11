@@ -9,6 +9,11 @@
 // bevat. Dit object heet de DOM. In de DOM zit de hele webpagina
 // en met cy.get() kunnen we binnen de DOM zoeken en selecteren 
 
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// nog ergens een plek geven: blijf met de cursor uit het testvenster want anders 
+// verstoor je de test
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 describe("Oefenen met de DOM", () => {
     it('1. Buienradar', () => {
 

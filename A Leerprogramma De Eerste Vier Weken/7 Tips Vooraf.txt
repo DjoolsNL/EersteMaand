@@ -1,0 +1,29 @@
+TIPS VOOR DAT JE BEGINT MET WEEK 1
+
+------------------------------------------------------------------------
+
+Enkele TIPS VOORAF 
+- Als je op je eigen laptop gaat werken maak dan een apart werkaccount 
+op je laptop aan voor dit traject en werk niet op het account dat je 
+normaal altijd gebruikt. Dit is veel overzichtelijker en werkt makkelijker.
+
+- Wij testen met de browser van Google Chrome. Dat is de browser waarmee 
+CarSys ook test. Wij houden daarbij de standaardinstellingen van Google 
+Chrome aan. 
+
+- Op je werkaccount moet je natuurlijk ook een browser hebben
+om op het internet te surfen. Die browser wil je natuurlijk zo instellen 
+zoals jij dat het prettigst vindt. Dat houdt dus in dat de browser die je
+op je werkaccount gaat gebruiken om te surfen niet Google Chrome kan
+zijn want zodra je de instellingen van Google Chrome gaat aanpassen zal
+dat effect hebben op de testresultaten. 
+
+Met andere woorden: je test op Google Chrome en je surft met FireFox of 
+een andere browser naar keuze.  
+
+
+
+
+
+
+

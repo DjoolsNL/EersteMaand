@@ -5,7 +5,7 @@ LEERDOELEN en SKILLS
 Het programma bestaat uit LEERDOELEN, OPDRACHTEN en LEERMATERIALEN 
 
 De LEERDOELEN formuleren wat je in de eerste vier weken aan de hand van het programma 
-kunt leren. De nadruk ligt op het verwerven van skills. Vaardigheden die aangeleerd 
+kunt leren. De nadruk ligt op het verwerven van SKILLS. Vaardigheden die aangeleerd 
 en in de praktijk aangewend kunnen worden, vaardigheden die in de IT belangrijk zijn.
 
 Het gaat om de volgende skills:
@@ -20,7 +20,7 @@ Je gaat niet alle tools waarmee wij werken in die eerste vier weken leren want d
 niet. We doen het gedoseerd, stap voor stap.    
 
 In de eerste vier weken leer je te werken met de volgende tools:
-- Visual Studie Code (ook wel VSC of VSCode genoemd),
+- Visual Studio Code (ook wel VSC of VSCode genoemd),
 - ChatGPT, 
 - Github, 
 - Cypress,
@@ -35,21 +35,21 @@ je begrijpt hoe het testen van websites werkt, je kunt basic testscenario's en -
 schrijven en je begrijpt de plek en functie van testen binnen een IT-organisatie.  
 
 Testen is een vak apart binnen de IT. De tests moeten bugs en tekortkomingen in de software 
-opsporen zodat developers deze kunnen oplossen. In onze software straat voeren wij 
-end-to-end tests uit. Dat zijn tests waarin de tester moet leren te denken en handelen alsof 
-hij de gebruiker van de software is. Dat houdt in dat je leert:
+blootleggen zodat developers ze kunnen oplossen. 
+
+In onze software straat voeren wij end-to-end tests uit. Dat zijn tests waarin de tester 
+moet leren te denken en handelen alsof hij de gebruiker/user van de software is. Dat houdt 
+in dat je leert:
 - in userscenario's te denken,
 - userscenario's naar testscenario's kunt omzetten en
 - testscenario's naar testscripts kunt omzetten.
 
 STUDEERSKILLS: 
 ook studeren is een vaardigheid die je kunt aanleren. Omdat de IT-branche zich kenmerkt door 
-voortdurende innovatie en verandering is studeren misschien wel de belangrijkste
-van alle vaardigheden die je bij ons gaat leren. Je leert 
-- welke manier van studeren voor jou het meeste rendement oplevert,
-- orientatie op dat wat je leren wil/moet
-- samenvattingen en aantekeningen maken
-- zelfstandig op zoek gaan naar informatie die je verder helpt 
+voortdurende innovatie en verandering zijn studeerskills misschien wel het belangrijkst.
+Je leert o.a.: 
+- best practices and common wisdom,
+- de opties die je allemaal tot je beschikking hebt om te gebruiken. 
 
 SOCIALE SKILLS: 
 je begrijpt dat een loopbaan in de IT alleen mogelijk is als je een teamplayer bent die 

@@ -6,6 +6,11 @@ describe("Window", () => {
     beforeEach(() => {
         cy.visit("https://www.wspparkstad.nl/")
     })
+    Cypress.on('uncaught:exception', (err, runnable) => {
+        // returning false here prevents Cypress from
+        // failing the test
+        return false
+      })
 
     it("cy.window() - get the global window object", () => {
         // cy.on("fail", (err, runnable) => {

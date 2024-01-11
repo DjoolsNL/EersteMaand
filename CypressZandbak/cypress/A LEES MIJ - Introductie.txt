@@ -1,55 +1,30 @@
+Introductie
+
+----------------------------------------------------------------------------------
+
 De Cypress Zandbak is een voorbeeldproject van Cypress dat voor jouw laptop 
 is geconfigureerd. Je kunt in de Zandbak al spelenderwijs vertrouwd raken met de 
-basisbeginselen van cypress end-to-end (e2e) web testing. Zodra je die basis onder de 
-knie hebt, ga je door naar 
+basisbeginselen van cypress end-to-end (e2e) web testing.  
 
-Het is de bedoeling dat je de tests die in de folder 'Tests' staan gaat uitproberen
-je mag code wijzigen, code erbij schrijven, code uitcommentarieren. Wat jij wil. 
+Het is de bedoeling dat je de tests die in de folder 'Tests' staan gaat uitproberen.
+Je mag code wijzigen, code erbij schrijven, code uitcommentarieren. Wat jij wil. 
 
 De code is door Cypress developers zelf is geschreven dus die stijl van coderen 
 volgen wij omdat we dan leren te scripten zoals Cypress developers dat doen.
 
-Cypress heeft dit voorbeeldproject niet voor beginners in de IT geschreven maar voor developers
-die cypress willen leren en gebruiken. Dat betekent dat je dingen zult tegenkomen die je niet 
-begrijpt. Maar dat is niet iets waar je je druk over hoeft te maken. Begrijp je iets niet dan
-sla je het over en ga je zoeken naar iets dat je wel begrijpt. 
+Cypress heeft dit voorbeeldproject niet voor beginners in de IT geschreven maar voor 
+developers die cypress willen leren en gebruiken. Dat betekent dat je dingen zult 
+tegenkomen die je niet begrijpt. Maar dat is niet iets waar je je druk over hoeft 
+te maken. Begrijp je iets niet dan sla je het over en ga je zoeken naar iets dat je 
+wel begrijpt. 
 
-Het pad waarop je leert is nooit rechtlijnig. Dus als je a en b wel begrijpt maar c niet,
-spring dan gewoon naar d en kijk of je dat begrijpt. Sla alles over wat je niet begrijpt en 
-concentreer je op wat je wel begrijpt. Zo ga je toch een heleboel dingen leren. 
+Het pad waarop je leert is nooit rechtlijnig. Dus als je a en b wel begrijpt maar 
+c niet, spring dan gewoon naar d en kijk of je dat begrijpt. Sla alles over wat 
+je niet begrijpt en concentreer je op wat je wel begrijpt. Zo ga je toch een 
+heleboel dingen leren. 
 
-De dingen die je niet begrijpt komen nog vaak genoeg terug. De kans wordt steeds groter 
-dat je die dingen wel gaat begrijpen. 
+De dingen die je niet begrijpt komen nog vaak genoeg terug. De kans wordt steeds 
+groter dat je die dingen wel gaat begrijpen. 
 
-Net zo belangrijk is dat je accepteert dat je een lange weg te gaan hebt voordat je door de bomen
-het bos ziet. 
-=============================================================================
-
-Hoe moet code eruit zien? 
-Netjes en clean want we moeten p a t r o n e n en 
-s t r u c t u r e n in de code kunnen herkennen en dat gaat makkelijker als 
-de code deze zichtbaar maakt. 
-
-xxxx Do's: 
-maak p a t r o n e n en s t r u c t u r e n in de code zichtbaar zoals in dit 
-it-block:
-
-it("voorbeeld van hoe structuur in de code zichtbaar gemaakt kan worden", () => {
-    cy.get(".as-table")
-        .find("tbody>tr")
-        .first()
-        .find("td")
-        .first()
-        .find("button")
-        .as("firstBtn")
-
-    cy.get("@firstBtn").click()
-
-    cy.get("@firstBtn")
-        .should("have.class", "btn-success")
-        .and("contain", "Changed")
-})
-
-
- 
-
+Net zo belangrijk is dat je accepteert dat je een lange weg te gaan hebt voordat 
+je door de bomen het bos ziet. 
