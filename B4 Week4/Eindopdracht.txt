@@ -1,0 +1,19 @@
+EINDOPDRACHT
+
+--------------------------------------------------------
+
+Deel 1. Een site die je leuk vindt en die je met Cypress bezoekt.
+
+Dat laat je tijdens de presentatie zien. 
+
+Vertel welke commando's je hebt gebruikt, welke problemen je bent
+tegengekomen en hoe je ze hebt opgelost.
+
+Deel 2. Opdracht: zodra je dit leest stuur je een email met de tekst:
+
+"Deel 2. Gevonden!"
+
+naar: julesvannuijs@bee-organisation.com
+
+
+https://old.reddit.com/r/QualityAssurance/

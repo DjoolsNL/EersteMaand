@@ -1,0 +1,40 @@
+Installatie
+
+----------------------------------------------------------------------------------
+
+Als je de Zandbak hebt gecloned zul je nog 
+- Node.js en 
+- Cypress 
+moeten installeren.
+
+Daarvoor moet je de terminal van VSCode openen. Dat kun je via het menu View doen. 
+
+-- Commando's voor de Terminal --
+Voor de installatie van Node.js plak je dit in de terminal:
+npm install --no-save
+
+Daarna plak je dit:
+npm update --no-save
+
+En daarna dit voor de installatie van Cypress:
+npm install cypress@10.11.0
+
+Je bent nu bijna klaar om Cypress te laten runnen. Het enige dat je nog moet doen
+is via de terminal het juiste pad ingeven naar de map waar de Zandbak staat. Dat
+doe je als volgt: 
+- kopieer het pad dat in de terminal wordt weergegeven
+- plak dat pad in notepad
+- type voor dat pad: cd
+- type achter dat pad: \CypressZandbak.
+
+De structuur van het juiste pad moet er zo uitzien:
+cd C:\Users\Teamlead\source\repos\EersteMaand\CypressZandbak
+
+Dit kopieer je nu allemaal en plak je in de terminal. De terminal zal met dit
+commando het juiste pad naar Cypress vinden.
+
+Als dit gelukt is ben je klaar om de boel op te starten met dit commando: 
+npx cypress open auto-start --e2e --browser chrome
+
+vraag chatGPT wat de functie van de terminal in VSCode is.  
+

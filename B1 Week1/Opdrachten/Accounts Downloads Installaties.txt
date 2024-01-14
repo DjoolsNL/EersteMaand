@@ -1,0 +1,19 @@
+Accounts Downloads Installaties
+
+----------------------------------------------------------------------------------
+
+Opdracht - ToolSkills - omgaan met tools
+
+De OPDRACHT
+Je begint met de volgende accounts aan te maken:
+voornaam + achternaam + bee@outlook.com, 
+chatGPT,
+github.
+
+Vervolgens download en installeer je:
+Visual Studio Code
+
+WAAROM
+Deze tools heb je nodig in dit leerprogramma. Je moet ervoor zorgen dat je met 
+deze tools vertrouwd raakt zodat je er handig mee kunt werken. De toolskills 
+zijn essentieel. De tools zijn je gereedschap en dat moet je leren gebruiken. 

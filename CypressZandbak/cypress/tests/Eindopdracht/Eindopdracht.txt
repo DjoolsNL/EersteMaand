@@ -1,0 +1,11 @@
+Eindopdracht
+
+----------------------------------------------------------------------------------
+
+De map Eindopdracht is nog leeg (op deze file na). In deze map ga je het script 
+zetten dat je zelf hebt geschreven en dat je in de vierde week aan het team gaat
+presenteren.
+
+Als je dat script hier neerzet moet je deze file uit de map verwijderen of je moet 
+de bovenstaande tekst aanpassen want die klopt natuurlijk niet meer als je je
+script hier neerzet.

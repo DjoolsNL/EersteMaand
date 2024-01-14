@@ -1,0 +1,22 @@
+Zandbak
+
+----------------------------------------------------------------------------------
+
+Opdracht - Skill omgaan met Cypress
+
+Je gaat al in je eerste week testscripts laten runnen en leren hoe je moet testen.
+
+Hoe gebruik je de Zandbak? 
+
+In de map CypressZandbak\cypress\tests\Klei staan testsfiles die je moet laten
+runnen. Het is de bedoeling dat je de code en de toelichting op de code die in de 
+files staat bestudeert. 
+
+Als je een testfile uit de genoemde map laat runnen zie je in het commandlog van 
+die test ook weer uitleg over Cypress. Ook die uitleg moet je bestuderen.
+
+WAAROM
+De Cypress Zandbak is een werkomgeving waar je met de studiestof mag spelen.
+
+
+1. Open een terminal en vraag nu verder.

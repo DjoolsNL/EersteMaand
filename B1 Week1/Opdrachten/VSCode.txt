@@ -1,0 +1,43 @@
+VSCode
+
+----------------------------------------------------------------------------------
+
+Opdracht - Skill omgaan met VSCode: Basiskennis user interface 
+
+In de map 
+
+B1 Week1/Ter Ondersteuning/VSCode 
+
+staan screenshots van VSCode's userinterface.
+
+De OPDRACHT
+De belangrijkste onderdelen van het userinterface moet je bij naam kennen. Je moet ook
+weten waar de onderdelen zitten en wat hun functie is. 
+
+Je opent de screenshots uit de map met een tekenprogramma (bijv. Windows Paint) en met 
+tekst en pijltjes teken je aan waar de volgende userinterface onderdelen te zien zijn
+op de screenshots: 
+explorer,
+side bar,
+editor(s),
+activity bar,
+status bar,
+panel/terminal,
+minimap,
+breadrumbs,
+tabs.
+
+Je bewaart de bewerkte screenshots in de map: B1 Week1/Ter Ondersteuning/VSCode 
+
+De volgende webpagina helpt je bij deze opdracht
+
+https://code.visualstudio.com/docs/getstarted/userinterface
+
+Lees op de webpagina de toelichtingen op de diverse onderdelen. 
+
+
+WAAROM
+Je leert de diverse onderdelen van het userinterface bij naam en functie zodat je 
+effectief met VSCode kunt werken en met anderen kunt communiceren als je gaat 
+samenwerken.
+

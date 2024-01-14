@@ -1,0 +1,24 @@
+ChatGPT: vragen over testen en quality assurance
+
+----------------------------------------------------------------------------------
+
+OPDRACHT
+Stel de volgende vragen aan chatGPT en bestudeer de antwoorden:
+1. Wat is de functie van testen in de IT branche?
+2. Wat is quality assurance en wat is de relatie met testen?
+3. Wat is end-to-end testing?
+4. Waarom is manueel testen nog steeds belangrijk?
+5. Wat is het voordeel van geautomatiseerd testen?
+6. Wat wordt met de happy flow bedoeld in het kader van testen?
+7. Welke testframeworks voor web zijn er en wat zijn de belangrijkste?
+8. Welke rol kan AI in het testen van web gaan spelen?
+9. 
+
+
+
+
+
+
+WAAROM
+Enerzijds leer je van de antwoorden, anderzijds leer je met AI om te gaan.
+
