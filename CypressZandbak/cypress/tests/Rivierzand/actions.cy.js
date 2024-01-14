@@ -1,6 +1,11 @@
 /* eslint-disable cypress/unsafe-to-chain-command */
 //// <reference types="cypress" />
 
+/////////////////////////////
+//  NIVEAU 1
+///////////////////////////////
+
+
 context("Actions", () => {
     beforeEach(() => {
         cy.visit("https://example.cypress.io/commands/actions")

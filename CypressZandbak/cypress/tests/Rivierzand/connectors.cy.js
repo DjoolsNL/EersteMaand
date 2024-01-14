@@ -1,5 +1,9 @@
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
+
+/////////////////////////////
+//  NIVEAU 3
+///////////////////////////////
 context("Connectors", () => {
    beforeEach(() => {
       cy.visit("https://example.cypress.io/commands/connectors")

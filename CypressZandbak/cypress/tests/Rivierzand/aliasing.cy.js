@@ -5,6 +5,9 @@ context("Aliasing", () => {
         cy.visit("https://example.cypress.io/commands/aliasing")
     })
 
+/////////////////////////////
+//  NIVEAU 3
+///////////////////////////////
     it(".as() - alias a DOM element for later use", () => {
         // Meer info: https://on.cypress.io/as
 

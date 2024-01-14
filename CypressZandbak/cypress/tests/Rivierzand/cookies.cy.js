@@ -1,5 +1,9 @@
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
+/////////////////////////////
+//  NIVEAU 4
+///////////////////////////////
+
 context("Cookies", () => {
    beforeEach(() => {
       Cypress.Cookies.debug(true)

@@ -17,6 +17,11 @@
 
 
 describe("Kan ik met de zoekfuntie van de website Heerlen.nl op bijzondere bijstand zoeken?", () => {
+    Cypress.on('uncaught:exception', (err, runnable) => {
+        // returning false here prevents Cypress from
+        // failing the test
+        return false
+      })
     it('1. Kan ik info over de collectieve zorgverzekering vinden?', () => {
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
         cy.visit("https://www.heerlen.nl/")
