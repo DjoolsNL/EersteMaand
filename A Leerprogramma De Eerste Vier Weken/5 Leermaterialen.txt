@@ -5,10 +5,19 @@ LEERMATERIALEN
 De LEERMATERIALEN 
 vervullen een ondersteunende rol.
 
+Hier een overzicht van leermiddelen die je ook na de eerste 4 weken moet
+gebruiken:
 
+1 https://old.reddit.com/r/QualityAssurance/
+Een community van mensen werkzaam in QA. Hier vindt je dagelijks nieuwe berichten
+over testen en QA. Er worden vaak vragen gesteld door mensen die nieuw in het vak 
+zijn en de antwoorden op die vragen zijn zeer leerzaam. Hoe langer je deze site
+volgt hoe meer zicht je krijgt op QA.   
 
+2 ChatGPT
 
+3 Google search
 
-
-
-
+4 https://www.leren.nl/
+Deze site bevat gratis studiemateriaal dat je helpt om je sociale en professionele
+vaardigheden verder te ontwikkelen.  
