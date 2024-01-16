@@ -5,11 +5,17 @@ OPDRACHTEN
 De OPDRACHTEN 
 zijn bedoeld om je actief met de studiestof te laten werken.  
 
-Er is een ook nog een EINDOPDRACHT
-Die bestaat uit twee delen:
-1. een presentatie van 30 minuten met ruimte voor vragen die je ergens in de laatste week 
-van de leerperiode aan het team geeft,
-2. het uitvoeren van een opdracht die elders in dit programma wordt beschreven. 
+Er is een ook nog een EINDOPDRACHT.
+Je geeft ergens in de laatste week een presentatie van testscripts die je
+hebt geschreven voor 
+1. een website naar eigen keuze en  
+2. het project Bijzondere Bijstand Heerlen.nl* 
 
-Verwerk zoveel mogelijk de kennis die je in de afgelopen weken hebt opgedaan in je 
-eindpresentatie.
+Verwerk de kennis die je in de afgelopen weken hebt opgedaan in je 
+eindpresentatie. Laat zien wat je hebt geleerd. 
+
+
+* Een verzameling end-to-end tests die de zoekfunctie van de website Heerlen.nl
+test vanuit het perspectief van burgers die op zoek zijn naar informatie over 
+Bijzondere Bijstand, inkomensondersteuning en re-integratie. Elke deelnemer aan
+de software straat voegt een nieuwe test toe aan de verzameling. 
