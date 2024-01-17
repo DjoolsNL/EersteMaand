@@ -7,6 +7,11 @@ context("Local Storage", () => {
     // Although local storage is automatically cleared
     // in between tests to maintain a clean state
     // sometimes we need to clear the local storage manually
+    // wat is local storage en waar wordt het voor gebruikt? Zie AI
+
+/////////////////////////////
+//  NIVEAU 4
+///////////////////////////////
 
     it("cy.clearLocalStorage() - clear all data in local storage", () => {
         // Meer info: https://on.cypress.io/clearlocalstorage

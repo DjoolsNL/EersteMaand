@@ -1,5 +1,9 @@
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
+/////////////////////////////
+//  NIVEAU 2
+///////////////////////////////
+
 context("Traversal", () => {
     beforeEach(() => {
         cy.visit("https://example.cypress.io/commands/traversal")

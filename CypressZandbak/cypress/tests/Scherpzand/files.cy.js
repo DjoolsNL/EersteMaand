@@ -1,4 +1,8 @@
 /// <reference types="cypress" />
+
+/////////////////////////////
+//  NIVEAU 4
+///////////////////////////////
 /* eslint-disable cypress/unsafe-to-chain-command */
 /// JSON fixture file can be loaded directly using
 // the built-in JavaScript bundler

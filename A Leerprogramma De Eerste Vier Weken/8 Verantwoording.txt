@@ -2,13 +2,6 @@ VERANTWOORDING
 
 ------------------------------------------------------------------------
 
-Uitgangspunt voor dit leerprogramma is het idee dat in de IT alles
+Uitgangspunt voor dit leerprogramma is het idee dat handig zijn in coderen 
 draait om taal en taalvaardigheid.
-
-
-Nog doen:
-
-We nemen de informatie over bijzondere bijstand op de website Heerlen.nl  
-onder de loep. We stellen ons de taak dit deel van de site als user te testen. 
-We doen dat uiteraard zoveel mogelijk geautomatiseerd.
 

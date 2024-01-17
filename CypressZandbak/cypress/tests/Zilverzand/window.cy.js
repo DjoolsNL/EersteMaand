@@ -1,5 +1,10 @@
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
+/////////////////////////////
+//  NIVEAU 1
+///////////////////////////////
+
+
 context("Window", () => {
     beforeEach(() => {
         cy.visit("https://example.cypress.io/commands/window")

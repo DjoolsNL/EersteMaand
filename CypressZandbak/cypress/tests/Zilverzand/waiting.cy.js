@@ -1,6 +1,10 @@
 /* eslint-disable cypress/no-unnecessary-waiting */
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
+/////////////////////////////
+//  NIVEAU 1
+///////////////////////////////
+
 context("Waiting", () => {
     beforeEach(() => {
         cy.visit("https://example.cypress.io/commands/waiting")

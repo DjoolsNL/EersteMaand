@@ -2,6 +2,11 @@
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
 // eslint-disable-next-line no-unused-vars
+/////////////////////////////
+//  NIVEAU 1
+///////////////////////////////
+
+
 context("Querying", () => {
     beforeEach(() => {
         cy.visit("https://example.cypress.io/commands/querying")

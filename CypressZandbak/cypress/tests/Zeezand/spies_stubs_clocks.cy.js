@@ -1,5 +1,9 @@
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
+/////////////////////////////
+//  NIVEAU 5
+///////////////////////////////
+
 // remove no check once Cypress.sinon is typed
 // Meer info: https://github.com/cypress-io/cypress/issues/6720
 

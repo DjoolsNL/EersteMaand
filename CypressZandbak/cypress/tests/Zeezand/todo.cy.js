@@ -10,6 +10,9 @@
 // what makes it such an awesome testing tool,
 // please read our getting started guide:
 // Meer info: https://on.cypress.io/introduction-to-cypress
+/////////////////////////////
+//  NIVEAU 1
+///////////////////////////////
 
 describe("example to-do app", () => {
     beforeEach(() => {

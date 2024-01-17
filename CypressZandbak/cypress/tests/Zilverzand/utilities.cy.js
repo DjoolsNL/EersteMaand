@@ -1,5 +1,9 @@
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
+/////////////////////////////
+//  NIVEAU 5
+///////////////////////////////
+
 context("Utilities", () => {
     beforeEach(() => {
         cy.visit("https://example.cypress.io/utilities")
