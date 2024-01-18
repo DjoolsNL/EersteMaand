@@ -28,3 +28,6 @@ groter dat je die dingen wel gaat begrijpen.
 
 Net zo belangrijk is dat je accepteert dat je een lange weg te gaan hebt voordat 
 je door de bomen het bos ziet. 
+
+Nog een tip als je een test laat runnen: blijf met de cursor uit het testvenster. Je 
+mag wel in het commandlog deel met de cursor rommelen maar niet in het testvenster.

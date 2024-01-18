@@ -26,3 +26,6 @@ it("voorbeeld van hoe structuur in de code zichtbaar gemaakt kan worden", () => 
         .and("contain", "Changed")
 })
 
+
+
+
