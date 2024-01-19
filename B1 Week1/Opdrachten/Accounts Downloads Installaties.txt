@@ -5,15 +5,37 @@ Accounts Downloads Installaties
 Opdracht - ToolSkills - omgaan met tools
 
 De OPDRACHT
-Je begint met de volgende accounts aan te maken:
-voornaam + achternaam + bee@outlook.com, 
-chatGPT,
-github.
 
-Vervolgens download en installeer je:
-Visual Studio Code
+1. Werkaccount: maak op de pc een nieuw Windows 10 account aan om in de software
+straat te werken. 
+
+2. Maak de volgende accounts aan:
+- email account: voornaam + achternaam + bee@outlook.com, 
+- account chatGPT.
+
+3. Installeer outlook en een browser niet zijnde Google Chrome op je
+werkaccount.
+
+4. Download en installeer verder op je werkaccount:
+- Visual Studio Code,
+- andere tools die je voor je werkaccount handig lijken.
+
 
 WAAROM
 Deze tools heb je nodig in dit leerprogramma. Je moet ervoor zorgen dat je met 
 deze tools vertrouwd raakt zodat je er handig mee kunt werken. De toolskills 
 zijn essentieel. De tools zijn je gereedschap en dat moet je leren gebruiken. 
+
+Wij testen op Google Chrome en dus surfen we op een andere browser.
+
+- Op je computer maak dan een APART WERKACCOUNT  
+op je laptop aan voor dit traject en werk niet op het account dat je 
+normaal altijd gebruikt. Dit is veel overzichtelijker en werkt makkelijker.
+Op dat werkaccount mag je de tools gebruiken die je ook buiten het traject 
+gebruikt maar dan moet je ze op je werkaccount installeren. 
+
+- Wij testen met de browser van Google Chrome. Dat is de browser waarmee 
+CarSys ook test. Wij houden daarbij de standaardinstellingen van Google 
+Chrome aan. Om te voorkomen dat je je eigen tests verpest surf je op het
+account waarop je werkt in de software straat niet op Google Chrome maar op
+een andere browser.

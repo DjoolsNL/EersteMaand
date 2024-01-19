@@ -20,12 +20,11 @@ Je gaat niet alle tools waarmee wij werken in die eerste vier weken leren want d
 niet. We doen het gedoseerd, stap voor stap.    
 
 In de eerste vier weken leer je te werken met de volgende tools:
-- Visual Studio Code (ook wel VSC of VSCode genoemd),
-- ChatGPT, 
-- Github, 
+- Visual Studio Code (),
 - Cypress,
-- Chrome en 
-- Chrome Devtools.
+- Chrome, 
+- Chrome Devtools en
+- ChatGPT of een vergelijkbare LLM. 
 
 Naast deze tools zul je ook leren om je digitale werkomgeving (je computer) efficient 
 in te richten en te beheren.
