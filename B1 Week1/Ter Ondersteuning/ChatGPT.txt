@@ -3,8 +3,7 @@ ChatGpt
 ----------------------------------------------------------------------------------
 
 Lees de onderstaande conversatie met ChatGTP goed door. Probeer de tips die chatGPT
-geeft te onthouden.   
-
+geeft te begrijpen en toe te passen als je haar gebruikt.   
 
 User:
 Ik ben een programma aan het maken voor cursisten die nog nooit met jou hebben gewerkt

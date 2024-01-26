@@ -2,13 +2,18 @@ Clean code
 
 ----------------------------------------------------------------------------------
 
-Hoe moet code eruit zien? 
-Netjes en clean want we moeten p a t r o n e n en s t r u c t u r e n in de code 
-kunnen herkennen en dat gaat makkelijker als de code deze zichtbaar maakt. 
+Hoe moet code eruit zien? Netjes en clean want we moeten 
+p a t r o n e n 
+en 
+s t r u c t u r e n 
+in de code kunnen herkennen en dat gaat makkelijker als de code 
+deze zichtbaar maakt. 
 
-xxxx Do's: 
-maak p a t r o n e n en s t r u c t u r e n in de code zichtbaar zoals in dit 
-it-block:
+Maak 
+p a t r o n e n 
+en 
+s t r u c t u r e n 
+in de code zichtbaar zoals in dit it-block:
 
 it("voorbeeld van hoe structuur in de code zichtbaar gemaakt kan worden", () => {
     cy.get(".as-table")
@@ -24,7 +29,7 @@ it("voorbeeld van hoe structuur in de code zichtbaar gemaakt kan worden", () => 
     cy.get("@firstBtn")
         .should("have.class", "btn-success")
         .and("contain", "Changed")
-})
+}).
 
 
 

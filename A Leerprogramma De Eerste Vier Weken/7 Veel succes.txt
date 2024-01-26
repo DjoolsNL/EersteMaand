@@ -3,5 +3,4 @@ VERANTWOORDING
 ------------------------------------------------------------------------
 
 Uitgangspunt voor dit leerprogramma is het idee dat handig zijn in coderen 
-draait om taal en taalvaardigheid.
-
+draait om taal en taalvaardigheid. 

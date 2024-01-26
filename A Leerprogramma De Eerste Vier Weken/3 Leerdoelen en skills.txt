@@ -15,24 +15,24 @@ STUDEERSKILLS,
 SOCIALE SKILLS.
 
 TOOLSKILLS: 
-het kunnen werken met professionele tools die door testers in de IT worden gebruikt.
-Je gaat niet alle tools waarmee wij werken in die eerste vier weken leren want dat red je
-niet. We doen het gedoseerd, stap voor stap.    
+het vaardig kunnen werken met professionele tools die door testers in de IT worden 
+gebruikt. Je gaat niet alle tools waarmee wij werken in die eerste vier weken leren 
+want dat red je niet. We doen het gedoseerd, stap voor stap voor stap.    
 
 In de eerste vier weken leer je te werken met de volgende tools:
-- Visual Studio Code (ook wel VSC of VSCode genoemd),
-- ChatGPT, 
-- Github, 
+- Visual Studio Code,
 - Cypress,
-- Chrome en 
-- Chrome Devtools.
+- Chrome, 
+- Chrome Devtools en
+- ChatGPT of een vergelijkbare LLM. 
 
-Naast deze tools zul je ook leren om je digitale werkomgeving (je computer) efficient 
-in te richten en te beheren.
+Naast deze tools zul je ook leren om je digitale werkomgeving (je werkaccount) 
+efficient in te richten en te beheren.
 
 TESTSKILLS: 
-je begrijpt hoe het testen van websites werkt, je kunt basic testscenario's en -scripts 
-schrijven en je begrijpt de plek en functie van testen binnen een IT-organisatie.  
+je kunt basic testscenario's en -scripts schrijven. Je begrijpt hoe het testen 
+van websites werkt en je begrijpt de plek en functie van testen binnen een 
+IT-organisatie.  
 
 Testen is een vak apart binnen de IT. De tests moeten bugs en tekortkomingen in de software 
 blootleggen zodat developers ze kunnen oplossen. 
