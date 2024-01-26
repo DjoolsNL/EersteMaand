@@ -2,7 +2,7 @@ Leerdoelen
 
 ------------------------------------------------------------------------
 
-Leerdoelen week1
+Leerdoelen week 1
 
 VOORAF - BELANGRIJK! - Lezen!
 Voor een aantal doelen zijn in de map van Week1 opdrachten te vinden
@@ -45,3 +45,8 @@ TESTSKILLS
 - Je weet wat end-to-end testing is.
 - Je weet wat een userscenario is.
 - Je weet wat een testscript is en hoe dat zich verhoudt tot een testscenario.
+
+STUDEERSKILLS
+
+
+SOCIALE SKILLS
