@@ -22,7 +22,7 @@ werkaccount.
 
 
 WAAROM
-Deze tools heb je nodig in dit leerprogramma. Je moet ervoor zorgen dat je met 
+Deze tools heb je nodig in dit introductieprogramma. Je moet ervoor zorgen dat je met 
 deze tools vertrouwd raakt zodat je er handig mee kunt werken. De toolskills 
 zijn essentieel. De tools zijn je gereedschap en dat moet je leren gebruiken. 
 

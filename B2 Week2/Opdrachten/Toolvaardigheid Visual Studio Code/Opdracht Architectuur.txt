@@ -2,6 +2,8 @@ VSCode
 
 ----------------------------------------------------------------------------------
 
+Deze opdracht is nog niet volledig uitgewerkt!
+
 In deze map zie je twee folders:
 Food World A en
 Food World B.

@@ -115,3 +115,20 @@ describes how an actor or user uses the system. It is widely used to develop sys
 A user scenario
 is a sequence of steps that a user of the software in irl needs to follow in order to use a specific funtionality. Let's say you want to test if a user can change his password. The user scenario will involve all the steps from login to go to his account and change the password and all necessary steps in between.
 
+Cypress begrippen die je met chatgpt of google kunt opzoeken:
+it-block
+describe
+before
+before each
+after each
+import
+fixtures
+custom commands
+support
+commands:
+action
+query
+assertion
+
+
+

@@ -1,17 +1,21 @@
-INLEIDING LEERPROGRAMMA
+INLEIDING INTRODUCTIEPROGRAMMA
 
 ----------------------------------------------------------------------------------
 
 In de software-straat BEE/CarSys staat praktijkleren (learning on the job)
-centraal. Je gaat er veel nieuwe dingen leren en dit leerprogramma 
-helpt je daarbij. In de eerste vier weken leg je de basis om aan te 
-haken bij het team van testers en de scrumwerkwijze.  
+centraal. Je gaat een commerciele website testen en al doende leer je de praktijk 
+van het testen en het werken binnen een IT-setting. 
+
+Voordat je gaat praktijkleren krijg je eerst een introductieprogramma dat ongeveer
+vier weken duurt. In die 4 weken leer je de basis die nodig is om aan te haken bij
+ons team van testers.   
 
 Omdat testen leuk is beginnen we daarmee. Je gaat o.a. de websites 
 Buienrader.nl, Heerlen.nl en WSP.nl testen. 
-
+ 
 Ter afsluiting van je eerste vier weken presenteer je in het bijzijn van
 het team wat je allemaal hebt geleerd. Je doet dat aan de hand van een 
 website die je zelf hebt gekozen en waarvoor je zelf een testscenario en -script
-hebt geschreven.
+hebt geschreven. En je presenteert een testscript dat je hebt gemaakt voor
+de website van de gemeente Heerlen. 
 
