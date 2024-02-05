@@ -8,14 +8,18 @@ TOOLSKILLS: VISUAL STUDIO CODE
 Als developer is VSCode je belangrijkste gereedschap. Dit zijn de leerdoelen:
  
 - Je kunt VSCode downloaden en installeren.
-- Je weet wat een IDE is.
+- Je weet wat een IDE is (googlen of Ai'en).
 - Je kent de belangrijkste onderdelen van VSCode en hun functie. 
-- Je kunt een folder met VSCode openen en sluiten.
+- Je kunt een projectfolder met een met VSCode openen en sluiten.
 - Je weet hoe je in de explorer folders kunt open- en dichtklappen. 
 - Je weet hoe je een file in de editor kunt openen, bewerken, saven 
 en afsluiten. 
 - Je weet hoe je een file kopieert en in een andere map zet en hoe je een file
 een andere naam geeft.
+- Je weet hoe je een map kunt toevoegen en hernoemen.
+- Je weet hoe je een file in de editor kunt pinnen en ontpinnen
+- Je weet hoe je in de explorer moet zoeken.
+- Je weet hoe je moet zoeken in een file.
 - Je weet hoe je de terminal moet gebruiken.
    
 TOOLSKILLS: CHATGPT
@@ -29,9 +33,9 @@ jou of voor je werkomgeving belangrijk zijn.
 
 TOOlSKILLS: de CYPRESS ZANDBAK
 - Je weet hoe je de Zandbak moet gebruiken om een test te laten runnen.
-- Je hebt de tests in de map 'Klei' laten runnen.
 - Je weet wat het commandlog is en wat het commando cy.log() doet.
 - Je weet waartoe 'describes' en 'it-blocken' dienen.
+- Je kunt een basic testscript schrijven's 
 
 TESTSKILLS
 - Je weet wat de DOM is.
