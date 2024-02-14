@@ -56,5 +56,8 @@ describe("Oefenen met de DOM", () => {
         // en uit die collectie selecteren we de <button> waarvan het <span> element de text 
         // 'Meer informatie' bevat 
         cy.get('button span').contains('Meer informatie').click()
+
+        cy.wacht()
+        cy.get('body').click({force: true})
     })
 })

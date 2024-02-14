@@ -25,13 +25,18 @@
 // // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 // // import './cypress/fixtures/lang_en-GB.json'
 // // import language from './cypress/fixtures/lang_en-GB.json'
-// import 'cypress-wait-until'
-// import 'cypress-file-upload'
-// import '@testing-library/cypress/add-commands'
-// import 'cypress-iframe'
-// import 'drag-drop'
-// import '@4tw/cypress-drag-drop'
-// import { MailSlurp } from 'mailslurp-client'
+import 'cypress-wait-until'
+import 'cypress-file-upload'
+import '@testing-library/cypress/add-commands'
+import 'cypress-iframe'
+import 'drag-drop'
+import '@4tw/cypress-drag-drop'
+import { MailSlurp } from 'mailslurp-client'
+
+Cypress.Commands.add("wacht", () => {
+   cy.wait(3000); // Assuming your login page is at '/login'
+ })
+
 
 // /***********************
 //   Mailslurp Commands

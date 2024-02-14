@@ -33,3 +33,5 @@ npx cypress open auto-start --e2e --browser chrome
 
 Btw: vraag chatGPT wat de functie van de terminal in VSCode is.  
 
+Zo run je een test headless:
+npx cypress run --spec "C:\Users\Teamlead\source\repos\EersteMaand\CypressZandbak\cypress\tests\Klei\Basis 4 - gaia.cy.js"
