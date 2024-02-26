@@ -18,16 +18,18 @@ describe("Oefenen met de DOM", () => {
     it('1. Buienradar', () => {
 
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
-        cy.visit("https://www.buienradar.nl/nederland/neerslag/buienradar")
+        cy.visit("https://www.tweakers.com")
         cy.wait(3000)
 
         // Altijd hetzelfde... cy.get() bevraagt de DOM en in dit geval
         // wordt gezocht naar een element met een id die de waarde 
         // 'onetrust-pc-btn-handler' heeft
+        cy.get('a').contains('Vraag & Aanbod').click()
+        cy.pause()
         cy.get('#onetrust-pc-btn-handler').click()
 
         // In de DOM wordt naar een <button> gezocht met de text 'Weigeren'
-        cy.get('button').contains('Weigeren').click()
+        
 
         // In de DOM wordt naar een <a> gezocht met de text 
         // 'Nu niet, misschien later'

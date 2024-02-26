@@ -8,6 +8,10 @@ De LEERDOELEN formuleren wat je in de eerste vier weken aan de hand van het prog
 kunt leren. De nadruk ligt op het verwerven van SKILLS. Vaardigheden die aangeleerd 
 en in de praktijk aangewend kunnen worden, vaardigheden die in de IT belangrijk zijn.
 
+In de map van Week 4. staan de leerdoelen die je in de laatste week kunt bereiken concreet
+gespecificeerd. In je eindpresentatie probeer je de verworven kennis zoveel goed tot
+uitdrukking te brengen. 
+
 Het gaat om de volgende skills:
 TOOLSKILLS, 
 TESTSKILLS, 
