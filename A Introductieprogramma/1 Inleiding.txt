@@ -2,8 +2,8 @@ INLEIDING INTRODUCTIEPROGRAMMA
 
 ----------------------------------------------------------------------------------
 
-In de software-straat BEE/CarSys staat praktijkleren (learning on the job)
-centraal. Je gaat een commerciele website testen en al doende leer je de praktijk 
+In de software-straat staat praktijkleren (learning on the job)
+centraal. Je gaat een commerciële website testen en al doende leer je de praktijk 
 van het testen en het werken binnen een IT-setting. 
 
 Voordat je gaat praktijkleren krijg je eerst een introductieprogramma dat ongeveer
@@ -16,6 +16,5 @@ Buienrader.nl, Heerlen.nl en WSP.nl testen.
 Ter afsluiting van je eerste vier weken presenteer je in het bijzijn van
 het team wat je allemaal hebt geleerd. Je doet dat aan de hand van een 
 website die je zelf hebt gekozen en waarvoor je zelf een testscenario en -script
-hebt geschreven. En je presenteert een testscript dat je hebt gemaakt voor
-de website van de gemeente Heerlen. 
+hebt geschreven.
 
