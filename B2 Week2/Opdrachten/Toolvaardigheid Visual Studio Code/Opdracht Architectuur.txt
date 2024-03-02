@@ -2,11 +2,19 @@ VSCode
 
 ----------------------------------------------------------------------------------
 
-Deze opdracht is nog niet volledig uitgewerkt!
-
 In deze map zie je twee folders:
 Food World A en
 Food World B.
 
 De twee mappen laten zien hoe een onderwerp op verschillende manieren gestructureerd 
 kan worden. In de IT noemen we zo'n structuur ook wel architectuur.
+
+In FWA zie je een duidelijk andere structuur dan in FWB ondanks het feit dat beide nog
+niet helemaal af zijn. 
+
+OPDRACHT 
+Completeer de mappen FWA en FWB in VScode explorer binnen de structuur die in beide 
+mappen gebruikt is. Dat betekent mappen toevoegen, files toevoegen etc.
+
+WAAROM
+Je oefent met VSCode en je leert je orienteren met behulp van de VScode explorer.  
