@@ -13,8 +13,8 @@ straat te werken.
 - email account: voornaam + achternaam + bee@outlook.com, 
 - account chatGPT.
 
-3. Installeer outlook, Google Chrome en een browser niet zijnde Google Chrome op je
-werkaccount.
+3. Installeer op je werkaccountoutlook, Google Chrome en een browser niet zijnde 
+Google Chrome.
 
 4. Download en installeer verder op je werkaccount:
 - Visual Studio Code,

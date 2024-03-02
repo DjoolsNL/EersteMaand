@@ -8,8 +8,9 @@ De LEERDOELEN formuleren wat je in de eerste vier weken aan de hand van het prog
 kunt leren. De nadruk ligt op het verwerven van SKILLS. Vaardigheden die aangeleerd 
 en in de praktijk aangewend kunnen worden, vaardigheden die in de IT belangrijk zijn.
 
-In de map van Week 4. staan de leerdoelen die je in de laatste week kunt bereiken concreet
-gespecificeerd. In je eindpresentatie laat je zien wat je allemaal hebt geleerd. 
+        |In de map van Week 4. staan de leerdoelen die je in 
+        |de laatste week kunt bereiken concreet gespecificeerd. 
+        |In je eindpresentatie laat je zien wat je allemaal hebt geleerd. 
 
 Het programma legt de nadruk op de volgende skills:
 TOOLSKILLS, 
@@ -56,5 +57,4 @@ Je leert o.a.:
 
 SOCIALE SKILLS: 
 je begrijpt dat een loopbaan in de IT alleen mogelijk is als je een teamplayer bent die 
-het teambelang voorop stelt en dat samenwerken en communiceren daarbij essentieel zijn. 
-
+het teambelang voorop stelt en dat samenwerken en communiceren daarbij essentieel zijn.

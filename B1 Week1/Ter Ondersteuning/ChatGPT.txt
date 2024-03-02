@@ -9,24 +9,36 @@ User:
 Ik ben een programma aan het maken voor cursisten die nog nooit met jou hebben gewerkt
 
 ChatGPT:
-Dat klinkt als een interessant project! Als je een programma maakt voor cursisten die nog nooit met mij hebben gewerkt, zou je kunnen overwegen om de volgende stappen te integreren:
+Dat klinkt als een interessant project! Als je een programma maakt voor cursisten die nog 
+nooit met mij hebben gewerkt, zou je kunnen overwegen om de volgende stappen te integreren:
 
-    Introductie: Begin met een duidelijke introductie over wie of wat ik ben en wat mijn mogelijkheden zijn. Leg uit hoe ik kan helpen en welke soorten vragen ik kan beantwoorden.
+Introductie: Begin met een duidelijke introductie over wie of wat ik ben en wat mijn 
+mogelijkheden zijn. Leg uit hoe ik kan helpen en welke soorten vragen ik kan beantwoorden.
 
-    Voorbeelden: Geef concrete voorbeelden van vragen die cursisten kunnen stellen en hoe ze deze het beste kunnen formuleren om nauwkeurige antwoorden te krijgen.
+Voorbeelden: Geef concrete voorbeelden van vragen die cursisten kunnen stellen en hoe ze 
+deze het beste kunnen formuleren om nauwkeurige antwoorden te krijgen.
 
-    Instructies voor heldere vragen: Leer cursisten hoe ze specifieke en duidelijke vragen kunnen stellen. Moedig hen aan om context te bieden wanneer dat nodig is.
+Instructies voor heldere vragen: Leer cursisten hoe ze specifieke en duidelijke vragen kunnen 
+stellen. Moedig hen aan om context te bieden wanneer dat nodig is.
 
-    Tips voor optimalisatie: Geef tips over hoe ze het meeste uit de interactie met mij kunnen halen, zoals het opsplitsen van complexe vragen in eenvoudigere stappen.
+Tips voor optimalisatie: Geef tips over hoe ze het meeste uit de interactie met mij kunnen 
+halen, zoals het opsplitsen van complexe vragen in eenvoudigere stappen.
 
-    Feedback: Leg uit hoe cursisten feedback kunnen geven over de ontvangen antwoorden, zodat ze beter begrijpen hoe ze de communicatie kunnen verbeteren.
+Feedback: Leg uit hoe cursisten feedback kunnen geven over de ontvangen antwoorden, 
+zodat ze beter begrijpen hoe ze de communicatie kunnen verbeteren.
 
-    Praktische toepassingen: Toon praktische voorbeelden van hoe mijn assistentie kan worden toegepast in hun studie, werk of dagelijkse leven.
+Praktische toepassingen: Toon praktische voorbeelden van hoe mijn assistentie kan worden toegepast
+in hun studie, werk of dagelijkse leven.
 
-Door deze elementen toe te voegen, help je cursisten effectiever en zelfverzekerder met mij te communiceren. Als je specifieke vragen hebt over hoe je bepaalde aspecten van je programma kunt vormgeven, laat het me dan gerust weten!
+Door deze elementen toe te voegen, help je cursisten effectiever en zelfverzekerder met mij te 
+communiceren. Als je specifieke vragen hebt over hoe je bepaalde aspecten van je programma kunt 
+vormgeven, laat het me dan gerust weten!
 
 User:
 Precies! Ze moeten leren in jouw taal te praten. Jij probeert natuurlijk ook hun taal te begrijpen. 
 
 ChatGPT:
-Absoluut, dat is een goede manier om het te bekijken. Het is inderdaad een tweerichtingsproces. Cursisten kunnen leren hoe ze hun vragen duidelijk en specifiek kunnen stellen, terwijl ik mijn best doe om hun vragen zo accuraat mogelijk te begrijpen en te beantwoorden. Het uiteindelijke doel is een effectieve en productieve communicatie.
+Absoluut, dat is een goede manier om het te bekijken. Het is inderdaad een tweerichtingsproces. 
+Cursisten kunnen leren hoe ze hun vragen duidelijk en specifiek kunnen stellen, terwijl ik mijn 
+best doe om hun vragen zo accuraat mogelijk te begrijpen en te beantwoorden. Het uiteindelijke 
+doel is een effectieve en productieve communicatie.

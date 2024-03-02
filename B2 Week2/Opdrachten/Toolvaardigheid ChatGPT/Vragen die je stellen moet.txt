@@ -23,9 +23,12 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 16. Dus html bevat zowel structuur en opmaak als inhoud?
 17. Waarom is html geen programmeertaal?
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-18. Ik werk met Jira, Gitlab, Visual Studio Code, Mailslurp, Cypress, Chrome browser, Chrome DevTools, Scrum, HTML, JavaScript. Raad wat voor werk ik doe?
+18. Ik werk met Jira, Gitlab, Visual Studio Code, Mailslurp, Cypress, 
+Chrome browser, Chrome DevTools, Scrum, HTML, JavaScript. Raad wat voor werk ik doe?
 19. Wat is een browser?
-20. Dus een browser laat een webpagina zien door de HTML code en de CSS code van de webpagina op te vragen op de server waar de website staat en geeft dan de pagina weer op mijn lokale pc?
+20. Dus een browser laat een webpagina zien door de HTML code en de CSS code van 
+de webpagina op te vragen op de server waar de website staat en geeft dan de pagina 
+weer op mijn lokale pc?
 
 
 
