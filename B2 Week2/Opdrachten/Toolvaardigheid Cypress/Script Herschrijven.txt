@@ -1,9 +1,5 @@
-
+Cypress: scripts herschrijven
 ------------------------------------------------------------------------
-
-dit is nog bagger!
-
-Je moet iets herschrijven als developer. 
 
 De volgende tekst moet je herschrijven zodat de regels van elke paragraaf 
 van 1 naar veel worden lopen of van veel naar 1. :
