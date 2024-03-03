@@ -4,131 +4,131 @@ https://www.functionize.com/blog/a-glossary-of-testing-terms
 
 
 
-Ad hoc testing
+|Ad hoc testing
 is unplanned, random testing that tries to break your application. Sometimes, ad hoc testing is referred to as “monkey testing” since it is likened to monkeys randomly pressing buttons. However, this is unfair. While ad hoc testing is unplanned, it is focussed. A skilled ad hoc tester will know how to trip systems up and will try all these tricks to cause the system to fail.
 
-An assertion
+|An assertion
 is used in automated testing to assert the expected behavior of the test. An assertion fails if the result is different than what you expected it to be. This is a key concept in functional testing. Assertions are commonly used in Unit testing, but the same concept applies to other forms of automated test. 
 
-Automated testing
+|Automated testing
 describes any form of testing where a computer runs the tests rather than a human. Typically, this means automated UI testing. The aim is to get the computer to replicate the test steps that a human tester would perform.
 
-A bug
+|A bug
 is a problem causing a program to crash or produce invalid output. The problem is caused by insufficient or erroneous logic. A bug can be an error, mistake, defect, or fault, which may cause failure or deviation from expected results.
 
-CI/CD Testing,
+|CI/CD Testing,
 which stands for Continuous Integration/Continuous Deployment Testing, is a vital component of modern software development. It involves the systematic and automated testing of software applications at various stages of the development pipeline. 
 
-Code Reusability
+|Code Reusability
 is a programming practice that involves writing code in a way that it can be used again in different parts of a software application or in various projects, without modification. This approach enhances efficiency, reduces errors, and shortens development time, as developers can leverage pre-existing, tested code.
 
-Coding Standards
+|Coding Standards
 are a set of guidelines and best practices used by programmers to write code that is easy to read, maintain, and understand. These standards ensure that code is consistently formatted and structured across different developers and projects, facilitating smoother collaboration and more efficient code review processes.
 
-Cross Browser Testing
+|Cross Browser Testing
 allows you to verify your application's compatibility with different browsers. It's essential to any development process because it ensures that your product works for all users, regardless of their browser preferences.
 
-Data driven testing
+|Data driven testing
 is a method of creating test scripts in which test data or output values are read from data files rather than using the same hard-coded values. To achieve greater coverage from a single test, you can run the same test case with different inputs.
 
-End to End testing
+|End to End testing
 is a software testing technique that scrutinizes the functioning of a software/application from the start to the end. It dissects the overall flow of the software and how it functions in different environments. It also checks if the application flow is as expected.
 
-Expected result
+|Expected result
 is the anticipated outcome or behavior of a test case when it is executed against a particular set of inputs or conditions. The expected result is defined based on the requirements, specifications, or user expectations for the software or system being tested. 
 
-An error
+|An error
 is a difference between what the software is supposed to do or is expected to do and what the software does. A defect in the software can result in erroneous behavior.
 
-Execution
+|Execution
 is simply performing (executing) the tests to verify specific functionality. This could be either manual test execution - where a person follows all the steps documented in the test cases. Or Automated test cases - where the command is given to execute (run) the steps using an automation tool.
 
-A false-positive test
+|A false-positive test
 in software testing is one where the test fails incorrectly. Typically, this is because of an error in the test itself, rather than a failure in the system. In automated testing, such failures are common and result in the need for Test maintenance.
 
-A false-negative
+|A false-negative
 in software testing is a test that incorrectly passes despite the presence of an issue. Typically, false-negative results happen when the expected result hasn’t been correctly defined. This can be a common problem in UI testing, where tests fail to check the whole UI for errors.
 
-Front-end testing
+|Front-end testing
 is a type of testing that involves checking the user interface (UI) and how it interacts with the other layers in an application. It's also called "browser testing," "front-end validation," and "functional testing."
 
-Headless Browser
+|Headless Browser
 is a web browser without a graphical user interface, used in automated testing to simulate browser behavior without displaying a visual interface.
 
-Manual testing
+|Manual testing
 involves verifying manually whether the functionalities are working as expected or not.
 
-Mocking
+|Mocking
 is creating simulated objects or functions to replicate the behavior of real components, aiding in isolating and testing specific parts of the application.
 
-Negative testing
+|Negative testing
 is a software testing approach that ensures an application's source code and corresponding functionality are fully functional and can handle all input. Invalid data is inserted to compare the output against the given input.
 
-Preconditions
+|Preconditions
 refer to the specific conditions or states that must be satisfied or met before a test can be executed. These conditions ensure that the test environment is set up correctly, providing a stable and consistent foundation for the test case. Preconditions help create a controlled and predictable testing environment, allowing testers to focus on the specific functionality or behavior being tested.
 
-QA / Quality Assurance
+|QA / Quality Assurance
 is the process of ensuring that the product or service provided to customers is of the best possible quality. QA focuses on improving processes for delivering quality products.
 
-Query
+|Query
 
 
-A selector
+|A selector
 is used by test scripts to identify and choose objects on the screen. These are then used to perform some action such as clicking, entering text, etc. There are various forms of selectors that are commonly used. These include simple HTML IDs, CSS-selectors and XPath queries.
 
-Smoke testing
+|Smoke testing
 helps you determine whether the most critical functions of the software applications are working as intended. It identifies mission-critical issues at the earliest, so you can fix them before delving into finer details.
 
-Test automation tools
+|Test automation tools
 are used to develop and execute a variety of tests and compare the actual results against the expected results. It can be used for manual processes or as part of a continuous integration system.
 
-A test case
+|A test case
 is a fully documented specification of the inputs, execution conditions, testing procedure, and expected results for one possible outcome of a particular test. Test cases ensure that all areas of the program have been evaluated and that no errors were missed during testing.
 
-Test coverage
+|Test coverage
 is a metric software tester uses to gauge how much of the program's code has been tested. To determine this, the tester records which sections of the program are executed when a test case is run and uses this information to establish whether conditional statement branches have been taken.
 
-Test data
+|Test data
 is input data to the system or software application used for testing it. We can differ test data to test the application to handle error conditions correctly. Therefore, QA should always provide different test data to test the application thoroughly.
 
-Test log
+|Test log
 the logging of one particular test.
 
-Test Runner
+|Test Runner
 is a tool that automates the execution of test cases and collects their results. It is frequently used in software testing to ensure that applications operate correctly and are bug-free. Test runners can be graphical user interfaces (GUIs) or command line tools.
 
-A Test Scenario
+|A Test Scenario
 is a high-level description of what needs to be tested in the software application to ensure its correct functionality and performance. It outlines a specific flow of actions or events (sequence), providing a clear picture of how a feature or function should work under various conditions. 
 
-A Test Script
+|A Test Script
 is a set of instructions or lines of code written to verify if a software application functions as expected. It is a crucial component in automated testing, where it helps in executing a series of tasks and comparing the expected with the actual outcome.
 
-A test suite
+|A test suite
 is a set of tests and test cases designed to work together. Typical projects have several test suites for things like regression testing, smoke testing, and performance testing. 
 
-UI Testing
+|UI Testing
 testing the (graphical) user interface (UI) of the application to ensure it functions correctly and meets design specifications.
 
-A use case
+|A use case
 describes how an actor or user uses the system. It is widely used to develop systems or acceptable level tests.
 
-A user scenario
+|A user scenario
 is a sequence of steps that a user of the software in irl needs to follow in order to use a specific funtionality. Let's say you want to test if a user can change his password. The user scenario will involve all the steps from login to go to his account and change the password and all necessary steps in between.
 
-Cypress begrippen die je met chatgpt of google kunt opzoeken:
-it-block
-describe
-before
-before each
-after each
-import
-fixtures
-custom commands
-support
-commands:
-action
-query
-assertion
+|Cypress begrippen die je met chatgpt of google kunt opzoeken:
+|it-block
+|describe
+|before
+|before each
+|after each
+|import
+|fixtures
+|custom commands
+|support
+|commands
+|actions
+|queries
+|assertions
 
 
 
