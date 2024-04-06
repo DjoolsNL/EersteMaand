@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Page Title</title>
+      <!--inline Cascading Style Sheet-->
+      <style>
+         body{
+            font-family: Arial, sans-serif;
+            font-size: 24px; 
+            padding-left: 7%;
+            padding-right: 7%;
+            padding-top: 5%;
+         }
+
+         table{
+            border: 1px solid black;
+         }
+
+         td{
+            border: 1px solid black; 
+            margin: 4px;
+            padding: 10px;
+         }
+
+         button{
+            font-size: 1.5em;
+         }
+
+         .kleuren{
+            font-size: 1.8em;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         }
+
+         .dieren{
+            color: rgb(255, 166, 0);
+            font-size: 2.8em;
+         }
+
+         #rood{
+            color: red
+         }
+
+         #blauw{
+            color: blue
+         }
+      </style>
+   </head>
+   <body>
+      <div>
+         <h1>LES 1</h1>
+         <p>
+            Wat je nu ziet in je browser komt van een html file op je eigen computer. Als het script gerund heeft, kun je met de cursor door de cypress commando's in het command log lopen en zie je welke elementen worden gekozen door de diverse cypress commando's.
+         </p>
+      </div>
+      <div>
+         <table>
+               <tr>
+                  <td class="kleuren" id="rood">Tabel</td>
+                  <td class="dieren">zebra</td>
+                  <td class="kleuren">paars</td>
+                  <td class="dieren">hond</td>
+                  <td class="kleuren">oranje</td>
+               </tr>
+               <tr>
+                  <td>zwart</td>
+                  <td class="kleuren">geel</td>
+                  <td class="kleuren">geel</td>
+                  <td class="kleuren">groen</td>
+                  <td class="kleuren" id="blauw">blauw</td>
+               </tr>
+               <tr>
+                  <td class="kleuren">oranje</td>
+                  <td class="dieren">paard</td>
+                  <td class="dieren">kat</td>
+                  <td>brood</td>                  
+                  <td class="kleuren" style="color:green" id="rood">rood</td>
+               </tr>
+         </table>
+         <h2>HTML Buttons</h2>
+         <p>
+            HTML buttons worden met de button tag gecreeerd:
+            <button>Klik me</button>
+         </p>
+      </div>
+      <div>Dit is een input element: <input style="font-size: 1.8em;"></div>      
+         <br>
+         <div>
+            <a name="simpel" href="/cypress/fixtures/simple.html">dit is een link</a>
+         </div>
+         <div>
+            <h2>London</h2>
+            <p>London is de hoofdstad van Engeland.</p>
+            <p>London heeft meer dan <span style="color:blueviolet"><b>13 miljoen</b></span> inwoners.</p>
+         </div>
+         <div>
+            <hr>
+            <h1>LES 2</h1>
+            <p>
+               Probeer onderstaand spelletje uit
+            </p>
+         </div>
+         <div>
+            <table>
+               <tr>
+                  <td class="kleuren" id="rood">Tabel</td>
+                  <td class="dieren">zebra</td>
+                  <td class="kleuren">paars</td>
+                  <td class="dieren">hond</td>
+                  <td class="kleuren">oranje</td>
+               </tr>
+               <tr>
+                  <td>zwart</td>
+                  <td class="kleuren">geel</td>
+                  <td class="kleuren">geel</td>
+                  <td class="kleuren">groen</td>
+                  <td class="kleuren" id="blauw">blauw</td>
+               </tr>
+               <tr>
+                  <td class="kleuren">oranje</td>
+                  <td class="dieren">paard</td>
+                  <td class="dieren">kat</td>
+                  <td>brood</td>                  
+                  <td class="kleuren" id="roood">rgood</td>
+               </tr>
+         </table>
+         </div>
+   </body>
+</html> 

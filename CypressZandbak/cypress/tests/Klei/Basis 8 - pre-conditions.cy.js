@@ -22,9 +22,15 @@ describe("Kan ik met de zoekfuntie van de website Heerlen.nl op bijzondere bijst
         // failing the test
         return false
       })
-    it('1. Kan ik info over de collectieve zorgverzekering vinden?', () => {
+    it('0. local html file', () => {
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
+        
+        cy.visit("/cypress/fixtures/simple.html");
+        cy.wait(8000)
+    })
+    it('1. Kan ik info over de collectieve zorgverzekering vinden?', () => {
         cy.visit("https://www.heerlen.nl/")
+
         cy.wait(2000)
 
         // een <a> is een html element voor een url (link) 

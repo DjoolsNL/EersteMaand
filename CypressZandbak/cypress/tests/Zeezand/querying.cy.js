@@ -25,7 +25,7 @@ context("Querying", () => {
             cy.log(err.message)
             return false
         })
-        cy.get('[daaaaaaata-test-id="test-example"]').should(
+        cy.get('[data-test-id="test-example"]').should(
             "have.class",
             "example",
         )

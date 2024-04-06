@@ -32,7 +32,6 @@ context("Files", () => {
 
         // when application makes an Ajax request matching "GET **/comments/*"
         // Cypress will intercept it and reply with the object in `example.json` fixture
-        // Negeer de bovenste twee comment regels. De intercept hierbeneden
         cy.intercept("GET", "**/comments/*", { fixture: "example.json" }).as(
             "getComment",
         )

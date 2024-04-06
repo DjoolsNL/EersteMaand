@@ -119,8 +119,8 @@ is a sequence of steps that a user of the software in irl needs to follow in ord
 |it-block
 |describe
 |before
-|before each
-|after each
+|beforeEach
+|afterEach
 |import
 |fixtures
 |custom commands
