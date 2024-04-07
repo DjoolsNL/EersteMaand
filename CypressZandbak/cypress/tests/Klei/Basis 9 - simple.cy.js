@@ -25,69 +25,58 @@ describe('Run a local html file', function () {
     // 10
     cy.contains('rood') // pakt ook rood maar ook kijkt niet of die in een td staat of elders 
 
-    // 11 12
+    // 11 
     cy.findByText('rood') // pakt geen substring 'rood', alleen het volledige woord 'rood' 
 
-    // 13
+    // 12
     cy.get('td:contains("rood")') // pakt alle td's met 'rood' en substring 'rood'
     
-    // 14 15 16 17
+    // 13 14 15 16 
     cy.get('tr').contains('paard').click().log(' Ness is een meer in Schotland')
     
-    // 18
+    // 17
     cy.get('.dieren') // .dieren staat voor class="dieren"
     
-    // 19
+    // 18
     cy.get('.kleuren') // .kleuren staat voor class="kleuren"
     
-    //  20 21
+    //  19 20 
     cy.get('#blauw').click() // #blauw staat voor id="blauw"
     
-    // 22
+    // 21 
     cy.contains('tbody tr', 'groen')
     
-    // 23 24
+    // 22 23 
     cy.get('p').contains('is de hoofdstad')
     
-    // 25 26
+    // 24 25 
     cy.get('body').click()
     
-    // 27
+    // 26
     cy.get('div')
 
-    // 28 29
+    // 27 28 
     cy.get('button').click()
     
-    // 30 31
+    // 29 30 
     cy.get('input').type('London')
     
-    // 32
+    // 31
     cy.wait(823)
 
-    // 33 34
-    cy.get('h1').click({ multiple: true })
+    // 32 33 
+    cy.get('h1').click()
 
-    // 35 36 37 
+    // 34 35 36  
     cy.get('p').contains('et scrip').click()
 
-    // 38
+    // 37
     cy.get('[name="simpel"]')
 
-    // 39
+    // 38
     cy.get('span')
 
-    // 40 41
+    // 39 40
     cy.get('a').contains('een link')
-  })
-
-  it('LES 2', function () {
-  
-  
-  
-  
-  
-  
-  
-  
   })
 })

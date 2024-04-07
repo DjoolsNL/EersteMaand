@@ -57,7 +57,7 @@ describe("Oefenen met de DOM", () => {
         // 'Meer informatie' bevat 
         cy.get('button span').contains('Meer informatie').click()
 
-        cy.wacht()
+        cy.wait(1001)
         cy.get('body').click({force: true})
     })
 })

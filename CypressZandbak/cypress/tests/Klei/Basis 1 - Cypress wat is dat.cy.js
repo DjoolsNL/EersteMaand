@@ -13,13 +13,13 @@ describe("Cypress is een framework dat JavaScript gebruikt om websites te testen
     it("Oefenen met het commando cy.log", () => {
         cy.pause()
         cy.log('het linkermenu noemen we het commandlog of gewoon log')
-        cy.wacht()
+        cy.wait(1001)
         cy.log('log: logboek van de test')
-        cy.wacht()
+        cy.wait(1001)
         cy.log('cy.log() is een commando om info in het log te schrijven')
-        cy.wacht()
+        cy.wait(1001)
         cy.log('Elk cy.log() commando in het commandlog begint met het woord \'Log\'')
-        cy.wacht()
+        cy.wait(1001)
     })
 })
 

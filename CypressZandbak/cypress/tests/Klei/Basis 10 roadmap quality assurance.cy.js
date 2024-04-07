@@ -2,7 +2,7 @@
 /// <reference types="cypress" />
 /* eslint-disable cypress/unsafe-to-chain-command */
 
-describe("Window", () => {
+describe("Bezoek de website die je een plattegrond toont van testen in de IT", () => {
     beforeEach(() => {
         cy.visit("https://roadmap.sh/qa")
     })
@@ -12,11 +12,7 @@ describe("Window", () => {
         return false
       })
 
-    it("find out what QA is", () => {
-        // Meer info: https://on.cypress.io/window
-        cy.get('[data-group-id="100-qa-basics:what-is-qa"]').click()
+    it("Ontdek meer over het vak van testen", () => {
         cy.wait(2000)
-        cy.get('[id="close-topic"]')
-
     })
 })

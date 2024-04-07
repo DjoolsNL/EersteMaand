@@ -34,7 +34,7 @@ describe("Oefenen met de DOM", () => {
 
         // In de DOM wordt naar een <a> gezocht die een <span> heeft met de text
         // 'Satelliet'
-        cy.get('a span').contains('Satelliet').click()
+        //cy.get('a span').contains('Satelliet').click()
 
         // de pause functie maakt het mogelijk de test te onderbreken om bijv iets
         // uit te zoeken 

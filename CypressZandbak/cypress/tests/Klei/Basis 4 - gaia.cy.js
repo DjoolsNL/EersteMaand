@@ -21,17 +21,14 @@
 // andere userscenario's nodig zijn om de werking van de site goed te kunnen testen 
 
 
-describe("Kan ik met de zoekfuntie van de website Heerlen.nl op bijzondere bijstand zoeken?", () => {
-    it('1. Kan ik info over de collectieve zorgverzekering vinden?', () => {
+describe("We zoeken de mogelijkheid om een dier te adopteren", () => {
+    it('Bezoek de hoofdpagina', () => {
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
         cy.visit("https://www.gaiazoo.nl/?s=adoptie")
         cy.wait(100)
         cy.get('#CybotCookiebotDialogBodyLevelButtonAccept').click()
         cy.get('body').click({force: true})
         cy.scrollTo('bottom', { duration: 8000 })
-
-
-
     })
 })
 

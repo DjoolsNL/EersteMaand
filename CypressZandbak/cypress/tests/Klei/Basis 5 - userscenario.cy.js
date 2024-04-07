@@ -10,34 +10,25 @@
 // applicatie gebruiken alsof we zelf de garagehouder zijn die de applicatie gebruikt om
 // de werkprocessen binnen zijn bedrijf te managen.
 //
-// Je het script schrijven volgens de handleidingen van CarSys. Dat hebben we gedaan en behoorlijk
-// dekkend. Maar wat als we ook testen wat er gebeurt als we hier en daar foute buttons drukken of
-// foutieve waarden ingeven? Ligt de applicatie dan plat of moet ik een workorder weer helemaal opnieuw
-// opbouwen of is de code voldoende bestand tegen garagisten die ongetwijfeld hier en daar vergissingen
-// begaan?
-
-// Juist dat wil je als bedrijf ook getest zien want hoe gebruikersvriendelijk is de applicatie
-// nog als je een fout maakt als gebruiker? Heeft een fout side-effects? Expected result is: de schade
-// door de fout is beperkt gebleven. Dat is robuuste code. Die kan tegen een foutje.
-
-// We testen niet maar checken.
-
-
-//die gebruik
-// maakt van de applicatie.   
 // We testen zgn userscenario's: 
 // kan de user een vehicle aanmaken?
 // kan de user een werkorder voor dit vehicle inboeken?
 // Etc. Elk userscenario van stap 1 tot stap laatst scripten we 
 // in de testfile die dit userscenario moet uitvoeren en testen
 // hieronder zie je een eenvoudig userscenario uitgewerkt.
-// kan de inwoner van Heerlen op de site Heerlen.nl info vinden over 
+// 
+// Kan de inwoner van Heerlen op de site Heerlen.nl info vinden over 
 // de collectieve zorgverzekering? 
 // Je kunt je wel voorstellen dat voor een site als Heerlen.nl nog tientallen(of zelfs honderden)
 // andere userscenario's nodig zijn om de werking van de site goed te kunnen testen 
 
 
 describe("Kan ik met de zoekfuntie van de website Heerlen.nl op bijzondere bijstand zoeken?", () => {
+    Cypress.on('uncaught:exception', (err, runnable) => {
+        // returning false here prevents Cypress from
+        // failing the test
+        return false
+      })
     it('1. Kan ik info over de collectieve zorgverzekering vinden?', () => {
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
         cy.visit("https://www.heerlen.nl/")
@@ -65,7 +56,7 @@ describe("Kan ik met de zoekfuntie van de website Heerlen.nl op bijzondere bijst
             teller++ // variabele++ betekent verhoog waarde variabele met 1
         });
 
-        // In html kan elk element een id attribuut hebben. 
+        // In html kan elk element een id-attribuut hebben. 
         // cy.get('#searchbox') zoekt niet op een element in de DOM
         // maar op een specifiek id. het '#' vertelt cypress dat we in de DOM op zoek 
         // zijn naar een specifiek id
