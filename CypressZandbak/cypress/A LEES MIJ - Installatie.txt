@@ -20,7 +20,7 @@ het scherm moet je vervolgens de instructies plakken die hieronder staan.
 Voor de koppeling van Node.js met de CypressZandbak plak je dit in de terminal:
 npm install --no-save
 
-Daarna plak je dit:
+Daarna plak je dit in de terminal:
 npm update --no-save
 
 En daarna dit voor de installatie van Cypress:
