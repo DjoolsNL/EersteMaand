@@ -2,18 +2,22 @@ Installatie
 
 ----------------------------------------------------------------------------------
 
-Als je de Zandbak hebt gecloned zul je nog 
+Als je de EERSTEMAAND hebt gecloned moet je nog 
 - Node.js en 
 - Cypress 
-moeten installeren.
+installeren.
 
 Eerst ga je naar deze link om node.js te downloaden: https://nodejs.org/en/download
-je kiest hier de windows installer 64 bit. Na het downloaden installeer je software. Gewoon overal op next klikken. 
+je kiest hier de windows installer 64 bit. Na het downloaden installeer je de software. 
+Gewoon overal op next klikken. 
 
-Na installatie open je VSCode en in VSCode open je een terminal via het menu 'View' doen. 
+Na installatie open je VSCode. In de Explorer van VSCode ga je met de cursor op de 
+map CypressZandbak staan. Klik nu op de rechtermuisknop. Er verschijnt nu een pop-up menu.
+In dat pop-up menu kies je: Open in Integrated Terminal. In de terminal rechtsbeneden in 
+het scherm moet je vervolgens de instructies plakken die hieronder staan. 
 
 -- Commando's voor de Terminal --
-Voor de installatie van Node.js plak je dit in de terminal:
+Voor de koppeling van Node.js met de CypressZandbak plak je dit in de terminal:
 npm install --no-save
 
 Daarna plak je dit:
@@ -22,16 +26,9 @@ npm update --no-save
 En daarna dit voor de installatie van Cypress:
 npm install cypress@10.11.0
 
-Je bent nu bijna klaar om Cypress te laten runnen. 
-
-Om de scripts in de Zandbak te laten runnen ga je in de explorer van VSCode met
-de cursor staan op de map 'CypressZandbak' en klik je op de rechtermuisknop. In
-het menu dat dan verschijnt kies je de optie 'Open in integrated Terminal'.  
+Je bent nu klaar om Cypress te laten runnen. 
 
 Als dit gelukt is ben je klaar om de boel op te starten met dit commando: 
 npx cypress open auto-start --e2e --browser chrome
 
-Btw: vraag chatGPT wat de functie van de terminal in VSCode is.  
-
-Zo run je een test headless:
-npx cypress run --spec "C:\Users\Teamlead\source\repos\EersteMaand\CypressZandbak\cypress\tests\Klei\Basis 4 - gaia.cy.js"d
+Btw: vraag chatGPT wat de functie van de terminal in VSCode is.
