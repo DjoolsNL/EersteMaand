@@ -6,7 +6,6 @@ DE LEERDOELEN
 
 TOOLSKILLS: VISUAL STUDIO CODE 
 Als developer is VSCode je belangrijkste gereedschap. Dit zijn de leerdoelen:
- 
 - Je kunt VSCode downloaden en installeren.
 - Je weet wat een IDE is (googlen of Ai'en).
 - Je kent de belangrijkste onderdelen van VSCode en hun functie. 
@@ -23,7 +22,7 @@ een andere naam geeft.
 - Je weet hoe je moet zoeken in een file.
 - Je weet hoe je de terminal moet gebruiken.
    
-TOOLSKILLS: CHATGPT
+TOOLSKILLS: AI (ChatGPT/Gemini etc.)
 - Je weet wat AI is en wat een LLM is en je kunt het aan een ander uitleggen.
 - Je kent de tips en trucs om de beste resutaten te krijgen met ChatGPT.
 - Je weet zo'n beetje waarin ChatGPT goed is en waarin niet.
@@ -32,7 +31,7 @@ maar dat je je gezond verstand moet blijven gebruiken als je chatGPT raadpleegt.
 - Je weet hoe je antwoorden kunt checken die je niet vertrouwd of die voor
 jou of voor je werkomgeving belangrijk zijn.
 
-TOOlSKILLS: de CYPRESS ZANDBAK
+TOOLSKILLS: CYPRESS
 - Je weet hoe je de Zandbak moet gebruiken om een test te laten runnen.
 - Je weet wat het commandlog is en wat het commando cy.log() doet.
 - Je weet waartoe 'describes' en 'it-blocken' dienen.
@@ -44,6 +43,15 @@ cy.wait(), .click(), .type(), .click({force:true}), .type('xxx {enter}').
 hoe je de selector moet scripten voor een van de overige attributen.
 - Je weet hoe je extra informatie over een gelopen test naar de console van de devtools
 kunt sturen.
+
+TOOLSKILLS: Browser en DevTools
+- Je weet hoe je de inspect functie moet gebruiken om in de html-code te kijken en te zoeken.
+- Je weet hoe je een code blok kunt copieren dat je buiten de inspector wil gebruiken.
+- Je weet hoe je de inspector een selector kunt laten maken.
+- Je weet wat de console is en je weet hoe je extra informatie vanuit het command log naar de 
+console kunt sturen zodat je die kunt raadplegen
+- Je weet wat de recorder functie is en je hoe je die moet gebruiken om recordings te maken en
+af te spelen.  
 
 TESTSKILLS
 - Je weet wat de DOM is.
@@ -57,13 +65,14 @@ die in het Cypress-script gebruikt moet worden om de website te testen.
 
 STUDEERSKILLS
 Binnen het leerprogramma leiden meerdere wegen naar Rome. Je kunt de volgorde van het leerprogramma
-aanhouden maar je kunt ook je eigen pad kiezen binnen het programma. Het enige dat telt is dat 
-je iets leert op de manier die het beste bij je past.  
+aanhouden maar je kunt ook je eigen pad kiezen binnen het programma en de aangeboden leermaterialen. 
+Uiteindelijk telt alleen het resultaat.    
 
-SOCIALE SKILLS: 
+SOCIALE SKILLS
 - Je kunt een presentatie geven van de testscript(s) die je hebt geschreven 
 voor de website die je hebt uitgekozen. 
 - Je weet om te gaan met vragen die over het onderwerp van je presentatie  
 worden gesteld.
-- Je kunt luisteren naar wat een ander zegt zodat je de informatie kunt opnemen en verwerken.
+- Je doet mee aan overleg en discussies binnen het team. Je kunt luisteren naar wat een ander zegt 
+zodat je de informatie kunt opnemen en verwerken.
 
