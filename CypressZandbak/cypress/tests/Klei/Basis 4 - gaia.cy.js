@@ -6,8 +6,8 @@
 //    E2E -- End-to-end  
 // ---------------------------------------------------------------------
 // Het doel van e2e tests is om een webservice/website te gebruiken zoals een user/consument
-// dat zou doen. In het geval van CarSys betekent het dat we de CarSys
-// applicatie gebruiken alsof we zelf de garagehouder zijn die gebruik
+// dat zou doen. In het geval van onze opdrachtgever betekent het dat we de 
+// software applicatie gebruiken alsof we zelf de garagehouder zijn die gebruik
 // maakt van de applicatie.   
 // We testen zgn userscenario's: 
 // kan de user een vehicle aanmaken?
