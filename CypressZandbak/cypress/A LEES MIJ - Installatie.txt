@@ -13,8 +13,10 @@ Gewoon overal op next klikken.
 
 Na installatie open je VSCode. In de Explorer van VSCode ga je met de cursor op de 
 map CypressZandbak staan. Klik nu op de rechtermuisknop. Er verschijnt nu een pop-up menu.
-In dat pop-up menu kies je: Open in Integrated Terminal. In de terminal rechtsbeneden in 
-het scherm moet je vervolgens de instructies plakken die hieronder staan. 
+In dat pop-up menu kies je: 'Open in Integrated Terminal'. 
+
+In de terminal rechtsbeneden in het scherm moet je vervolgens de instructies plakken 
+die hieronder staan. 
 
 -- Commando's voor de Terminal --
 Voor de koppeling van Node.js met de CypressZandbak plak je dit in de terminal:
