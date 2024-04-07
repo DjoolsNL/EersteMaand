@@ -36,7 +36,7 @@ TOOLSKILLS: CYPRESS
 - Je weet wat het commandlog is en wat het commando cy.log() doet.
 - Je weet waartoe 'describes' en 'it-blocken' dienen.
 - Je weet hoe je de inspector functie van de browser devtools moet gebruiken om te scripten
-- Je kunt een basic testscript schrijven.
+- Je kunt een basic testscripts schrijven.
 - Je kunt werken met cy.visit(), cy.get(), cy.contains(), cy.get().contains(), 
 cy.wait(), .click(), .type(), .click({force:true}), .type('xxx {enter}').
 - Je weet hoe je een selector voor een element, een class en voor een id moet scripten en
