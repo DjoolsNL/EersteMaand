@@ -36,7 +36,14 @@ TOOlSKILLS: de CYPRESS ZANDBAK
 - Je weet hoe je de Zandbak moet gebruiken om een test te laten runnen.
 - Je weet wat het commandlog is en wat het commando cy.log() doet.
 - Je weet waartoe 'describes' en 'it-blocken' dienen.
+- Je weet hoe je de inspector functie van de browser devtools moet gebruiken om te scripten
 - Je kunt een basic testscript schrijven.
+- Je kunt werken met cy.visit(), cy.get(), cy.contains(), cy.get().contains(), 
+cy.wait(), .click(), .type(), .click({force:true}), .type('xxx {enter}').
+- Je weet hoe je een selector voor een element, een class en voor een id moet scripten en
+hoe je de selector moet scripten voor een van de overige attributen.
+- Je weet hoe je extra informatie over een gelopen test naar de console van de devtools
+kunt sturen.
 
 TESTSKILLS
 - Je weet wat de DOM is.
@@ -49,7 +56,9 @@ die in het Cypress-script gebruikt moet worden om de website te testen.
 - Je weet dat er naast end-to-end testen nog een boel andere soorten tests zijn die in de IT worden gebruikt.    
 
 STUDEERSKILLS
- 
+Binnen het leerprogramma leiden meerdere wegen naar Rome. Je kunt de volgorde van het leerprogramma
+aanhouden maar je kunt ook je eigen pad kiezen binnen het programma. Het enige dat telt is dat 
+je iets leert op de manier die het beste bij je past.  
 
 SOCIALE SKILLS: 
 - Je kunt een presentatie geven van de testscript(s) die je hebt geschreven 

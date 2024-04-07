@@ -12,6 +12,12 @@ In de map CypressZandbak\cypress\tests\Klei staan testsfiles die je moet laten
 runnen. Het is de bedoeling dat je de code en de toelichting op de code die in de 
 files staat bestudeert. 
 
+Naast de map Klei staan nog meer tests in de mappen Rivierzand, Scherpzand, Zeezand 
+en Zilverzand. Deze tests zijn overgenomen van het Cypress tutorial Getting Started.
+Bij elke van deze tests is bovenin het script het niveau van de test aangegeven. Tests
+van niveau 1 en 2 zijn geschikt om te verkennen in je eerste 4 weken. Alles met een hoger 
+niveau is in principe goed studiemateriaal voor later.    
+
 Hoe laat je de scripts runnen? Even vragen dan krijg je hulp!
 
 WAAROM
