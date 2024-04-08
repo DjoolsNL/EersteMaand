@@ -2,10 +2,10 @@ ChatGPT
 
 ----------------------------------------------------------------------------------
 
-Opdracht - ToolSkills omgaan met ChatGPT
+Opdracht - ToolSkills omgaan met ChatGPT/Gemini
 
 De OPDRACHT
-Vraag ChatGPT:
+Vraag ChatGPT/Gemini:
 - Wat kan ik je allemaal vragen?
 - Waar ben je goed in?
 - Hoe kan je me helpen?
@@ -17,7 +17,7 @@ geven?
 is. Ga er bij je antwoord van uit dat ik 15 jaar ben en niets van IT afweet.
 
 WAAROM
-ChatGPT is je persoonlijke leraar die 24 uur per dag klaar staat om je
+ChatGPT/Gemini is je persoonlijke leraar die 24 uur per dag klaar staat om je
 vragen te beantwoorden. Hij weet heel veel van allerlei programmeertalen
 en van IT. Je kunt hem code 'voeren' en hij legt je uit wat die code precies doet.
 Je kunt hem ook vragen code te schrijven maar dan moet je wel specifiek omschrijven
@@ -26,4 +26,4 @@ wat die code moet doen.
 Hoe beter je leert de juiste vragen te stellen hoe meer je uit deze AI haalt.
 
 Kijk ook in de map B1 Week1/Ter Ondersteuning. Daar staan tips hoe je de beste 
-resultaten met ChatGPT krijgt. 
+resultaten met ChatGPT/Gemini krijgt. 

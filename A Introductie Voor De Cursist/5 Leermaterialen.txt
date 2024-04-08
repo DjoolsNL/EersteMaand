@@ -5,24 +5,40 @@ LEERMATERIALEN
 De LEERMATERIALEN 
 vervullen een ondersteunende rol.
 
-Hier een overzicht van leermiddelen die je ook na de eerste 4 weken moet
+Hier een overzicht van leermiddelen die je ook na de eerste 4 weken kunt 
 gebruiken:
 
-1 https://old.reddit.com/r/QualityAssurance/
+Algemeen:
+1. Programming constructs: https://www.bbc.co.uk/bitesize/guides/z433rwx/revision/1
+Sequence, Selection and Iteration. Leer ze van buiten want in elke code zul je ze tegenkomen.
+
+2. https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+De beste gratis cursus voor wie het web wil leren kennen. Van de makers van FireFox. 
+De site bevat daarnaast de beste documentatie van alles wat met web verband houdt. 
+Wil je de hele cursus doen ben je wel twee weken bezig. 
+
+3. Basiskennis: https://www.youtube.com/@Kodable
+De basis die je moet leren in de IT. In begrijpelijke taal. Doe je zelf een plezier en
+probeer de videos.
+
+4. Cypress commando's met voorbeelden:  https://example.cypress.io/commands/querying
+De tests in zandmappen (Rivierzand etc.) bezoeken deze site. 
+
+Testing:
+1. Internationale community: https://old.reddit.com/r/QualityAssurance/
 Een community van mensen werkzaam in QA. Hier vindt je dagelijks nieuwe berichten
 over testen en QA. Er worden vaak vragen gesteld door mensen die nieuw in het vak 
 zijn en de antwoorden op die vragen zijn zeer leerzaam. Hoe langer je deze site
 volgt hoe meer zicht je krijgt op QA.   
 
-2 ChatGPT / Gemini
+2. Plattegrond Quality Assurance: https://roadmap.sh/qa
 
-3 Google search
+Ook algemeen:
+1. ChatGPT / Gemini / Google search
+Gebruik deze om je kennis te vergroten en om je vaardigheden te vergroten om je kennis
+te vergroten. 
 
-4 https://www.leren.nl/
+2. https://www.leren.nl/
 Deze site bevat gratis studiemateriaal dat je helpt om je sociale en professionele
 vaardigheden verder te ontwikkelen.  
-
-5. https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
-De beste gratis instapcursus voor de beginner van de makers van FireFox. De site bevat 
-daarnaast de beste documentatie van alles wat met web verband houdt.
 

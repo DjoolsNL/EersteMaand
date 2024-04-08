@@ -8,7 +8,7 @@
 // Elke get() in cypress kijkt in het object dat alle data van de webpagina
 // bevat. Dit object heet de DOM. In de DOM zit de hele webpagina
 // en met cy.get() kunnen we binnen de DOM zoeken en selecteren 
-
+import 'cypress-network-idle'
 describe("Oefenen met de DOM", () => {
     Cypress.on('uncaught:exception', (err, runnable) => {
         // returning false here prevents Cypress from
@@ -16,7 +16,9 @@ describe("Oefenen met de DOM", () => {
         return false
       })
     it('1. Wat heeft Heerlen te bieden bij de bijzondere bijstand', () => {
-
+        //cy.waitForNetworkIdle('*', '*', 1000)
+        cy.intercept({method: 'GET', path: '*'}).as('get')
+        cy.intercept({method: 'POST', path: '*'}).as('post')
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
         cy.visit("https://www.heerlen.nl/")
         cy.wait(2000)
