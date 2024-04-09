@@ -10,7 +10,7 @@ en in de praktijk aangewend kunnen worden, vaardigheden die in de IT belangrijk 
 
         |In de map van Week 4. staan de leerdoelen die je in 
         |de laatste week kunt bereiken concreet gespecificeerd. 
-        |In je eindpresentatie laat je zien wat je allemaal hebt geleerd. 
+        |In je eindpresentatie laat je zien wat je hebt geleerd.
 
 Het programma legt de nadruk op de volgende skills:
 TOOLSKILLS, 
@@ -56,5 +56,9 @@ Je leert o.a.:
 - de opties te gebruiken die beschikbaar zijn (google, LLM). 
 
 SOCIALE SKILLS: 
-je begrijpt dat een loopbaan in de IT alleen mogelijk is als je een teamplayer bent die 
+je bent 24 of meer uren per week met je traject bezig. De meeste daarvan ben je op locatie.
+De ruimte waarin we werken is klein. Je wordt dus meteen op 1,5 m2 geplaatst. Je moet je dus 
+aanpassen aan de mensen om je heen en zij aan jou.
+
+Je begrijpt dat een loopbaan in de IT alleen mogelijk is als je een teamplayer bent die 
 het teambelang voorop stelt en dat samenwerken en communiceren daarbij essentieel zijn.

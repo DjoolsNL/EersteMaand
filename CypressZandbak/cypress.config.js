@@ -2,8 +2,8 @@ module.exports = {
     chromeWebSecurity: false,
     defaultCommandTimeout: 4000,
     requestTimeout: 5000,
-    viewportHeight: 900,
-    viewportWidth: 1600,
+    viewportHeight: 750,
+    viewportWidth: 800,
     e2e: {
         experimentalSessionAndOrigin: false,
         specPattern: "./cypress/tests/**/*.cy.js",
