@@ -15,7 +15,7 @@ en
 s t r u c t u r e n 
 in de code zichtbaar zoals in dit it-block:
 
-it("voorbeeld van hoe structuur in de code zichtbaar gemaakt kan worden", () => {
+it("shows a voorbeeld", () => {
     cy.get(".as-table")
         .find("tbody>tr")
         .first()
@@ -29,7 +29,7 @@ it("voorbeeld van hoe structuur in de code zichtbaar gemaakt kan worden", () => 
     cy.get("@firstBtn")
         .should("have.class", "btn-success")
         .and("contain", "Changed")
-}).
+})
 
 
 

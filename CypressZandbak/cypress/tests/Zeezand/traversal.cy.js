@@ -3,7 +3,6 @@
 /////////////////////////////
 //  NIVEAU 2
 ///////////////////////////////
-
 context("Traversal", () => {
     beforeEach(() => {
         cy.visit("https://example.cypress.io/commands/traversal")

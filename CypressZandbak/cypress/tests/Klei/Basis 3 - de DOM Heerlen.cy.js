@@ -16,12 +16,21 @@ describe("Oefenen met de DOM", () => {
         return false
       })
     it('1. Wat heeft Heerlen te bieden bij de bijzondere bijstand', () => {
-        //cy.waitForNetworkIdle('*', '*', 1000)
-        cy.intercept({method: 'GET', path: '*'}).as('get')
-        cy.intercept({method: 'POST', path: '*'}).as('post')
+        // cy.waitForNetworkIdlePrepare({
+        //     method: '*',
+        //     pattern: '*',
+        //     alias: 'calls',
+        //     log: false,
+        //   })
+    
+        //   cy.waitForNetworkIdle('@calls', 2000)
+
+
+        // cy.intercept({method: 'GET', path: '*'}).as('get')
+        // cy.intercept({method: 'POST', path: '*'}).as('post')
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
         cy.visit("https://www.heerlen.nl/")
-        cy.wait(2000)
+        cy.wait(100)
 
         // een <a> is een html element voor een url (link) 
         // cy.get('a') zoekt in de DOM naar <a> elementen en

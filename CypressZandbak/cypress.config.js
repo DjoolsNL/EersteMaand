@@ -2,8 +2,8 @@ module.exports = {
     chromeWebSecurity: false,
     defaultCommandTimeout: 4000,
     requestTimeout: 5000,
-    viewportHeight: 750,
-    viewportWidth: 800,
+    viewportHeight: 900,
+    viewportWidth: 1600,
     e2e: {
         experimentalSessionAndOrigin: false,
         specPattern: "./cypress/tests/**/*.cy.js",
@@ -12,5 +12,8 @@ module.exports = {
         setupNodeEvents(on, config) {
             return require("./cypress/plugins/index.js")(on, config)
         },
+    },
+    setupNodeEvents (on, config) {
+        
     },
 }

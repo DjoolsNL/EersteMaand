@@ -7,11 +7,15 @@ Als je de EERSTEMAAND hebt gecloned moet je nog
 - Cypress 
 installeren.
 
-Eerst ga je naar deze link om node.js te downloaden: https://nodejs.org/en/download
+1. Download node.js: https://nodejs.org/en/download
 je kiest hier de windows installer 64 bit. Na het downloaden installeer je de software. 
 Gewoon overal op next klikken. 
 
-Na installatie open je VSCode. In de Explorer van VSCode ga je met de cursor op de 
+2. Download Git: https://git-scm.com/downloads
+je kiest hier de windows installer 64 bit. Na het downloaden installeer je de software. 
+Gewoon overal op next klikken. 
+
+3. Na installatie open je VSCode. In de Explorer van VSCode ga je met de cursor op de 
 map CypressZandbak staan. Klik nu op de rechtermuisknop. Er verschijnt nu een pop-up menu.
 In dat pop-up menu kies je: 'Open in Integrated Terminal'. 
 
