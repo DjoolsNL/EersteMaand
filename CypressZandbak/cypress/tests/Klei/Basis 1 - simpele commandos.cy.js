@@ -1,3 +1,4 @@
+//// <reference types="cypress" />
 describe('Run a local html file', function () {
   // Cypress.on('command:end', (command) => {
   //   console.log(`Command ${command.name} yielded:`, command.attributes);
@@ -6,7 +7,7 @@ describe('Run a local html file', function () {
   //   }
   // })
 
-  it('LES 1', function () {
+  it.only('LES 1', function () {
     // 1
     cy.visit("/cypress/fixtures/simple.html")
 

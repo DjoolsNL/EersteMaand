@@ -1,9 +1,15 @@
 https://www.lambdatest.com/learning-hub/glossary#m1
 https://www.functionize.com/blog/a-glossary-of-testing-terms
 
+Terminal commando's
+// run in browser:
+npx cypress open auto-start --e2e --browser chrome
+// run 1 file headless (zonder browser):
+npx cypress run --spec "cypress/tests/klei/simple.cy.js"
+// run files in bepaalde folder headless:
+npx cypress run --spec "cypress/tests/klei/*.cy.js"
 
-
-
+Begrippenlijst:
 |Ad hoc testing
 is unplanned, random testing that tries to break your application. Sometimes, ad hoc testing is referred to as “monkey testing” since it is likened to monkeys randomly pressing buttons. However, this is unfair. While ad hoc testing is unplanned, it is focussed. A skilled ad hoc tester will know how to trip systems up and will try all these tricks to cause the system to fail.
 
@@ -129,6 +135,7 @@ is a sequence of steps that a user of the software in irl needs to follow in ord
 |actions
 |queries
 |assertions
+
 
 
 

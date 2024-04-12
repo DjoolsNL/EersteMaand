@@ -1,7 +1,7 @@
 // ---------------------------------------------------------------------
 //    Cypress wat is dat  -- Cypress is een bundel JS libraries 
 // ---------------------------------------------------------------------
-
+// <reference types="cypress" />
 describe("Cypress is een framework dat JavaScript gebruikt om websites te testen.", () => {
     // In deze test spelen we een beetje met het commandlog en Cypress
 

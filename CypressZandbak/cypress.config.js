@@ -16,4 +16,5 @@ module.exports = {
     setupNodeEvents (on, config) {
         
     },
+    video: false,
 }
