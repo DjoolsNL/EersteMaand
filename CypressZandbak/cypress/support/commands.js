@@ -45,9 +45,10 @@ Cypress.Commands.add("bevat", (input) => {
   cy.contains(input)
 })
 
-// Cypress.Commands.add('findTdInRow', { prevSubject: 'element' }, (subject, index) => {
-//   return cy.wrap(subject).find('td').eq(index);
-// })
+Cypress.Commands.add('vindInRij', { prevSubject: 'element' }, (subject, index) => {
+  return cy.wrap(subject).find('td').eq(index);
+})
+
 
 // Cypress.Commands.add("", () => {
 //   cy.

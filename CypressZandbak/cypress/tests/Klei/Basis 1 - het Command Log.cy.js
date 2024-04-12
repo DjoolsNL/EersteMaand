@@ -6,6 +6,17 @@
 //    Cypress Commandlog  -- Logboek van een test 
 // ---------------------------------------------------------------------
 
+describe("Schrijf hier je naam", () => {
+    // In deze test spelen we een beetje met het commandlog van Cypress in de Chrome Browser 
+    it("Oefenen met het commando cy.log", () => {
+        cy.log('Jules logged this')
+        // kopieer de volgende code met je naam tussen de single quotes en plak  
+        // die op de lege regel hieronder: cy.log('Jules logged this')
+
+        // Daarna sla je de file waarin je hebt geplakt op en laat deze test runnen.
+    })
+})
+
 describe("Wat is het commandlog van Cypress?", () => {
     // In deze test spelen we een beetje met het commandlogipt en Cypress
 
