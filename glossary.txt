@@ -5,7 +5,7 @@ Terminal commando's
 // run in browser:
 npx cypress open auto-start --e2e --browser chrome
 // run 1 file headless (zonder browser):
-npx cypress run --spec "cypress/tests/klei/simple.cy.js"
+npx cypress run --spec "cypress/tests/klei/Basis 1 - simpele commandos.cy.js"
 // run files in bepaalde folder headless:
 npx cypress run --spec "cypress/tests/klei/*.cy.js"
 
