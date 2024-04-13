@@ -1,0 +1,3 @@
+Probeer dit eens uit in de terminal:
+
+npx run k1
