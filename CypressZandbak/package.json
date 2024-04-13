@@ -5,7 +5,9 @@
   "main": "index.js",
   "author": "Jules van Nuijs",
   "scripts": {
-    "prepare": "install-vscode-extensions"
+    "prepare": "install-vscode-extensions",
+    "cy:1" : "npx cypress run --spec cypress/tests/Klei/Basis1_cypress_wat_is_dat.cy.js",
+    "cy:klei" : "npx cypress run --spec cypress/tests/Klei/*.cy.js"
   },
   "dependencies": {
     "@4tw/cypress-drag-drop": "^2.2.3",
