@@ -8,6 +8,15 @@
 
 context("Actions", () => {
     beforeEach(() => {
+        // intercept the response and catch response body
+        cy.intercept('GET', 'https://example.cypress.io/commands/actions', (req) => {
+            // Continue with the request and capture the response
+            req.continue((res) => {
+              // Access the response body and log it to the console
+              console.log('Response Body:', res.body);
+            });
+          });
+          
         cy.visit("https://example.cypress.io/commands/actions")
     })
 

@@ -5,9 +5,21 @@
   "main": "index.js",
   "author": "Jules van Nuijs",
   "scripts": {
-    "prepare": "install-vscode-extensions",
-    "k1": "npx cypress run --spec cypress/tests/Klei/K1_cypress_wat_is_dat.cy.js",
-    "Klei": "npx cypress run --spec cypress/tests/Klei/*.cy.js"
+    "K1": "npx cypress run --spec cypress/tests/Klei/K1_cypress_wat_is_dat.cy.js",
+    "K2": "npx cypress run --spec cypress/tests/Klei/K2_het_Command_Log.cy.js",
+    "K3": "npx cypress run --spec cypress/tests/Klei/K3_simpele_commandos.cy.js",
+    "K4": "npx cypress run --spec cypress/tests/Klei/K4_de_DOM_Buienradar.cy.js",
+    "K5": "npx cypress run --spec cypress/tests/Klei/K5_de_DOM_Heerlen.cy.js",
+    "K6": "npx cypress run --spec cypress/tests/Klei/K6_gaia.cy.js",
+    "K7 ": "npx cypress run --spec cypress/tests/Klei/K7_wat_is_e2e.cy.js",
+    "K8": "npx cypress run --spec cypress/tests/Klei/K8_userscenario.cy.js",
+    "K9": "npx cypress run --spec cypress/tests/Klei/K9_het_Command_Log_vervolg.cy.js",
+    "K10 ": "npx cypress run --spec cypress/tests/Klei/K10_pre-conditions.cy.js",
+    "K11 ": "npx cypress run --spec cypress/tests/Klei/K11_roadmap_quality_assurance.cy.js",
+    "K12 ": "npx cypress run --spec cypress/tests/Klei/K12_wsp_parkstad.cy.js",
+    "Klei": "npx cypress run --spec cypress/tests/Klei/*.cy.js",
+    "headed": "npx cypress open auto-start --e2e --browser chrome",
+    "prepare": "install-vscode-extensions"
   },
   "dependencies": {
     "@4tw/cypress-drag-drop": "^2.2.3",

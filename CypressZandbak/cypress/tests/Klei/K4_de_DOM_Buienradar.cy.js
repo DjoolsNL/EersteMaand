@@ -16,7 +16,6 @@
 
 describe("Oefenen met de DOM", () => {
     it('1. Buienradar', () => {
-
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
         cy.visit("https://www.buienradar.nl")
         cy.wait(3000)
@@ -42,7 +41,7 @@ describe("Oefenen met de DOM", () => {
 
     })
 
-    it('2. Hoe weet je wat je nodig hebt uit de DOM?', () => {
+    it('2. Hoe weet je wat je nodig hebt uit de DOM? Deze regel uitklappen!', () => {
         var tekst = 'Om je cypress script op de gewenste button te laten klikken moet je wel eerst weten hoe je die in de DOM kunt vinden'
         cy.log(tekst)
 

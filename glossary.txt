@@ -4,8 +4,10 @@ https://www.functionize.com/blog/a-glossary-of-testing-terms
 Terminal commando's
 // run in browser:
 npx cypress open auto-start --e2e --browser chrome
+// alternatief commando voor run in browser:
+npm run headed
 // run 1 file headless (zonder browser):
-npx cypress run --spec "cypress/tests/Klei/Basis 1 - simpele commandos.cy.js"
+npx cypress run --spec "cypress/tests/Klei/K3_simpele_commandos.cy.js"
 // run files in bepaalde folder headless:
 npx cypress run --spec "cypress/tests/Klei/*.cy.js"
 

@@ -63,7 +63,7 @@ describe('Run a local html file', function () {
     cy.get('input').type('London')
     
     // 31
-    cy.wait(823)
+    cy.wait(423)
 
     // 32 33 
     cy.get('h1').click()
