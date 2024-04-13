@@ -1,9 +1,9 @@
 {
-  "name": "beeideas_testing",
-  "version": "2.0.0",
-  "description": "E2E testing",
+  "name": "LEERPROGRMMA DE EERSTEMAAND",
+  "version": "1.2",
+  "description": "Het beste tutorial om te leren scripten",
   "main": "index.js",
-  "author": "BeeIdeas",
+  "author": "Jules van Nuijs",
   "scripts": {
     "prepare": "install-vscode-extensions"
   },

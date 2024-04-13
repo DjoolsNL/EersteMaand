@@ -7,7 +7,7 @@ describe('Run a local html file', function () {
   //   }
   // })
 
-  it.only('LES 1', function () {
+  it.only('LES 1 cypress commandos', function () {
     // 1
     cy.visit("/cypress/fixtures/simple.html")
 
@@ -72,7 +72,7 @@ describe('Run a local html file', function () {
     cy.get('p').contains('et scrip').click()
 
     // 37
-    cy.get('[name="simpel"]')
+    cy.get('[name="zwartwit"]')
 
     // 38
     cy.get('span')

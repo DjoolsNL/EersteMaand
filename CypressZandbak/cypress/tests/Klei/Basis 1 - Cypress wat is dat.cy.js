@@ -45,6 +45,10 @@ describe("Niveau 1 wordt een describe genoemd.", () => {
         cy.log("Niveau 3")
         cy.log("In de 'TEST BODY' (niveau 3) staan de echte testcommando's.")
     })
+    it("Ik ben een it-block en sta op niveau 2", () => {
+        cy.log("Niveau 3")
+        cy.log("In de 'TEST BODY' (niveau 3) staan de echte testcommando's.")
+    })
 })
 
 
