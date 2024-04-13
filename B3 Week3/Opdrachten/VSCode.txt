@@ -1,3 +1,0 @@
-Probeer dit eens uit in de terminal:
-
-npm run k1

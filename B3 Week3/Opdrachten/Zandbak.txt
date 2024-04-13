@@ -1,0 +1,16 @@
+Zandbak
+
+----------------------------------------------------------------------------------
+
+Opdracht - Skill omgaan met Cypress: cypress run 
+
+Probeer dit uit in de terminal van VSCode:
+
+npm run k1
+
+Vervolgens zoek je met de zoekfunctie van de VSCode Explorer in welke files je 
+'k1' terug kunt vinden. Een van de files die in de zoekresultaten staat, voert
+uit wat er gebeurt als je 'npm run k1' in de terminal ingeeft.
+
+Zoek met ChatGPT uit wat de functie van die file is binnen cypress.
+
