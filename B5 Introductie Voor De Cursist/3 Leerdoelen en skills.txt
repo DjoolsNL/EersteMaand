@@ -1,0 +1,60 @@
+LEERDOELEN en SKILLS
+
+------------------------------------------------------------------------
+
+Het programma bestaat uit LEERDOELEN, OPDRACHTEN en LEERMATERIALEN 
+
+De LEERDOELEN formuleren wat je in de eerste vier weken aan de hand van het programma 
+kunt leren. De nadruk ligt op het verwerven van SKILLS. Vaardigheden die aangeleerd 
+en in de praktijk aangewend kunnen worden, vaardigheden die in de IT belangrijk zijn.
+
+        |In de map van Week 4. staan de leerdoelen die je in 
+        |de laatste week kunt bereiken concreet gespecificeerd. 
+        |In je eindpresentatie laat je zien wat je allemaal hebt geleerd. 
+
+Het programma legt de nadruk op de volgende skills:
+TOOLSKILLS, 
+TESTSKILLS, 
+STUDEERSKILLS, 
+SOCIALE SKILLS.
+
+TOOLSKILLS: 
+het vaardig kunnen werken met professionele tools die door testers in de IT worden 
+gebruikt. Je gaat niet alle tools waarmee wij werken in die eerste vier weken leren 
+want dat red je niet. We doen het gedoseerd, stap voor stap voor stap.    
+
+In de eerste vier weken leer je te werken met de volgende tools:
+- Visual Studio Code,
+- Cypress,
+- Chrome, 
+- Chrome Devtools en
+- ChatGPT of een vergelijkbare LLM. 
+
+Naast deze tools zul je ook leren om je digitale werkomgeving (je werkaccount) 
+efficient in te richten en te beheren.
+
+TESTSKILLS: 
+je kunt basic testscenario's en -scripts schrijven. Je begrijpt hoe het testen 
+van websites werkt en je begrijpt de plek en functie van testen binnen een 
+IT-organisatie.  
+
+Testen is een vak apart binnen de IT. De tests moeten bugs en tekortkomingen in de software 
+blootleggen zodat developers ze kunnen oplossen. 
+
+In onze software straat voeren wij end-to-end tests uit. Dat zijn tests waarin de tester 
+moet leren te denken en handelen alsof hij de gebruiker/user van de software is. Dat houdt 
+in dat je leert:
+- in userscenario's te denken,
+- userscenario's naar testscenario's kunt omzetten en
+- testscenario's naar testscripts kunt omzetten.
+
+STUDEERSKILLS: 
+ook studeren is een vaardigheid die je kunt aanleren. Omdat de IT-branche zich kenmerkt door 
+voortdurende innovatie en verandering zijn studeerskills misschien wel het belangrijkst.
+Je leert o.a.: 
+- best practices and common wisdom,
+- de opties te gebruiken die beschikbaar zijn (google, LLM). 
+
+SOCIALE SKILLS: 
+je begrijpt dat een loopbaan in de IT alleen mogelijk is als je een teamplayer bent die 
+het teambelang voorop stelt en dat samenwerken en communiceren daarbij essentieel zijn.
