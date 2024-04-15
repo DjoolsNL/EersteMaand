@@ -4,6 +4,11 @@ Leerdoelen
 
 DE LEERDOELEN
 
+TOOLSKILLS: GIT en GITHUB
+Git is wereldwijd de meestgebruikte versiebeheer software. Je maakt je 
+eigen account op GitHub aan dat als persoonlijke portfolio gaat dienen zodat 
+je straks bij een sollicitatie kunt laten zien waartoe je in staat bent. 
+
 TOOLSKILLS: VISUAL STUDIO CODE 
 Als developer is VSCode je belangrijkste gereedschap. Dit zijn de leerdoelen:
  
