@@ -308,6 +308,7 @@ _Pvt_Extensions
 paket-files/
 
 introductie.txt 
+Introductie.txt
 
 # FAKE - F# Make
 .fake/
