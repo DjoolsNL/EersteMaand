@@ -2,7 +2,7 @@
   "name": "leerprogramma_de_eerstemaand_",
   "version": "1.2 - ",
   "description": "Het beste tutorial om te leren scripten",
-  "main": "index.js",
+  "main": "",
   "author": "Jules van Nuijs",
   "scripts": {
     "K1": "npx cypress run --spec cypress/tests/Klei/K1_cypress_wat_is_dat.cy.js",

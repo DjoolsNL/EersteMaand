@@ -1,10 +1,10 @@
 // //***********************************************
+// // command.js is enkel voor custom commands. e2e.js is voor imports
+// //***********************************************
+
 // // This example commands.js shows you how to
 // // create various custom commands and overwrite
 // // existing commands.
-// //
-// // For more comprehensive examples of custom
-// // commands please read more here:
 // // https://on.cypress.io/custom-commands3
 // //***********************************************
 // //
@@ -26,12 +26,7 @@
 // // import './cypress/fixtures/lang_en-GB.json'
 // // import language from './cypress/fixtures/lang_en-GB.json'
 
-import 'cypress-wait-until'
-import 'cypress-file-upload'
-import '@testing-library/cypress/add-commands'
-import 'cypress-iframe'
-import 'drag-drop'
-import '@4tw/cypress-drag-drop'
+
 
 Cypress.Commands.add("wacht", (ms) => {
    cy.wait(ms); 
@@ -49,11 +44,14 @@ Cypress.Commands.add('vindInRij', { prevSubject: 'element' }, (subject, index) =
   return cy.wrap(subject).find('td').eq(index);
 })
 
-
+// leeg cc
 // Cypress.Commands.add("", () => {
-//   cy.
+//  
 // })
 
-
+// leeg cc
+// Cypress.Commands.add("", () => {
+//   
+// })
 
 

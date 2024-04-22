@@ -24,6 +24,6 @@ Google Chrome.
 WAAROM
 Deze tools heb je nodig in dit introductieprogramma. Je moet ervoor zorgen dat je met 
 deze tools vertrouwd raakt zodat je er handig mee kunt werken. De toolskills 
-zijn essentieel. De tools zijn je gereedschap en dat moet je leren gebruiken. 
+zijn essentieel. De tools zijn je gereedschap en dat moet je leren te gebruiken. 
 
 Wij testen op Google Chrome en dus surfen we op een andere browser.
