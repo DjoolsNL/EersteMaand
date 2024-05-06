@@ -4,7 +4,7 @@ INLEIDING INTRODUCTIEPROGRAMMA
 
 Of je nu wel of niet ooit serieus hebt nagedacht over de mogelijkheid van een loopbaan 
 in de IT, in onze IT-straat ga je die mogelijkheid actief verkennen.  
-
+aaa
 In de IT-straat staat praktijkleren (learning on the job) centraal. Verderop in 
 je traject ga je een commerciële webservice testen en al doende leer je de praktijk
 van het testen en werken binnen een IT-setting. 
