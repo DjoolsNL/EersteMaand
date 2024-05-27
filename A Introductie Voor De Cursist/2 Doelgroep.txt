@@ -1,6 +1,6 @@
 DOELGROEP
 
-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 Dit introductieprogramma is voor wie in onze IT-straat start.
 Het is geschreven voor cursisten die geen of weinig relevante IT voorkennis hebben. 
