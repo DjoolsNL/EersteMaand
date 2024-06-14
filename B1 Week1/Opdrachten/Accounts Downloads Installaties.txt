@@ -10,7 +10,7 @@ De OPDRACHT
 straat te werken. 
 
 2. Maak de volgende accounts aan:
-- email account: voornaam + achternaam + bee@outlook.com, 
+- email account: voornaam. + achternaam. + bee@outlook.com, 
 - account chatGPT.
 
 3. Installeer op je werkaccount outlook, Google Chrome en een browser niet zijnde 

@@ -15,9 +15,15 @@
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 describe("Oefenen met de DOM", () => {
+    Cypress.on('uncaught:exception', (err, runnable) => {
+        // returning false here prevents Cypress from
+        // failing the test
+        return false
+      })
     it('1. Buienradar', () => {
         // dit gaan we echt niet toelichten. dit moet je zelf maar uitvogelen 
-        cy.visit("https://www.buienradar.nl")
+        cy.visit("https://www.youtube.com")
+        cy.get('span').contains('Alles accepteren').click({force: true})
         cy.wait(3000)
 
         // Altijd hetzelfde... cy.get() bevraagt de DOM en in dit geval
